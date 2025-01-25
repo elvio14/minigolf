@@ -1,0 +1,4986 @@
+Active
+elapsedTime: 0.000000divided: 0.000000
+deltaTime: 16.667500
+vel: 30.030020, 0.000000
+pos: 384.000000, 640.000000
+
+Active
+elapsedTime: 16.667500divided: 0.016668
+deltaTime: 16.667000
+vel: 29.780014, 0.000000
+pos: 384.496368, 640.000000
+
+Active
+elapsedTime: 33.334499divided: 0.033335
+deltaTime: 16.667101
+vel: 29.530008, 0.000000
+pos: 385.480743, 640.000000
+
+Active
+elapsedTime: 50.001602divided: 0.050002
+deltaTime: 16.667101
+vel: 29.280003, 0.000000
+pos: 386.944794, 640.000000
+
+Active
+elapsedTime: 66.668701divided: 0.066669
+deltaTime: 16.667299
+vel: 29.029993, 0.000000
+pos: 388.880188, 640.000000
+
+Active
+elapsedTime: 83.335999divided: 0.083336
+deltaTime: 16.666700
+vel: 28.779993, 0.000000
+pos: 391.278595, 640.000000
+
+Active
+elapsedTime: 100.002701divided: 0.100003
+deltaTime: 16.667000
+vel: 28.529987, 0.000000
+pos: 394.131683, 640.000000
+
+Active
+elapsedTime: 116.669701divided: 0.116670
+deltaTime: 16.667299
+vel: 28.279978, 0.000000
+pos: 397.431091, 640.000000
+
+Active
+elapsedTime: 133.337006divided: 0.133337
+deltaTime: 16.667101
+vel: 28.029972, 0.000000
+pos: 401.168518, 640.000000
+
+Active
+elapsedTime: 150.004105divided: 0.150004
+deltaTime: 16.667200
+vel: 27.779964, 0.000000
+pos: 405.335632, 640.000000
+
+Active
+elapsedTime: 166.671310divided: 0.166671
+deltaTime: 16.667299
+vel: 27.529955, 0.000000
+pos: 409.924072, 640.000000
+
+Active
+elapsedTime: 183.338608divided: 0.183339
+deltaTime: 16.667299
+vel: 27.279945, 0.000000
+pos: 414.925537, 640.000000
+
+Active
+elapsedTime: 200.005905divided: 0.200006
+deltaTime: 16.667101
+vel: 27.029940, 0.000000
+pos: 420.331696, 640.000000
+
+Active
+elapsedTime: 216.673004divided: 0.216673
+deltaTime: 16.666901
+vel: 26.779936, 0.000000
+pos: 426.134186, 640.000000
+
+Active
+elapsedTime: 233.339905divided: 0.233340
+deltaTime: 16.667200
+vel: 26.529928, 0.000000
+pos: 432.324677, 640.000000
+
+Active
+elapsedTime: 250.007111divided: 0.250007
+deltaTime: 16.666901
+vel: 26.279924, 0.000000
+pos: 438.894836, 640.000000
+
+Active
+elapsedTime: 266.674011divided: 0.266674
+deltaTime: 16.667000
+vel: 26.029919, 0.000000
+pos: 445.836334, 640.000000
+
+Active
+elapsedTime: 283.341003divided: 0.283341
+deltaTime: 16.667000
+vel: 25.779913, 0.000000
+pos: 453.140839, 640.000000
+
+Active
+elapsedTime: 300.007996divided: 0.300008
+deltaTime: 16.666700
+vel: 25.529913, 0.000000
+pos: 460.800018, 640.000000
+
+Active
+elapsedTime: 316.674683divided: 0.316675
+deltaTime: 16.667299
+vel: 25.279903, 0.000000
+pos: 468.805511, 640.000000
+
+Active
+elapsedTime: 333.341980divided: 0.333342
+deltaTime: 16.666700
+vel: 25.029903, 0.000000
+pos: 477.149017, 640.000000
+
+Active
+elapsedTime: 350.008667divided: 0.350009
+deltaTime: 16.666901
+vel: 24.779900, 0.000000
+pos: 485.822205, 640.000000
+
+Active
+elapsedTime: 366.675568divided: 0.366676
+deltaTime: 16.667299
+vel: 24.529890, 0.000000
+pos: 494.816711, 640.000000
+
+Active
+elapsedTime: 383.342865divided: 0.383343
+deltaTime: 16.667299
+vel: 24.279881, 0.000000
+pos: 504.124237, 640.000000
+
+Active
+elapsedTime: 400.010162divided: 0.400010
+deltaTime: 16.667101
+vel: 24.029875, 0.000000
+pos: 513.736450, 640.000000
+
+Active
+elapsedTime: 416.677277divided: 0.416677
+deltaTime: 16.666700
+vel: 23.779875, 0.000000
+pos: 523.644958, 640.000000
+
+Active
+elapsedTime: 433.343964divided: 0.433344
+deltaTime: 16.666901
+vel: 23.529871, 0.000000
+pos: 533.841492, 640.000000
+
+Active
+elapsedTime: 450.010864divided: 0.450011
+deltaTime: 16.667101
+vel: 23.279865, 0.000000
+pos: 544.317688, 640.000000
+
+Active
+elapsedTime: 466.677979divided: 0.466678
+deltaTime: 16.667400
+vel: 23.029854, 0.000000
+pos: 555.065186, 640.000000
+
+Active
+elapsedTime: 483.345367divided: 0.483345
+deltaTime: 16.667400
+vel: 22.779842, 0.000000
+pos: 566.075745, 640.000000
+
+Active
+elapsedTime: 500.012756divided: 0.500013
+deltaTime: 16.667200
+vel: 22.529835, 0.000000
+pos: 577.340942, 640.000000
+
+Active
+elapsedTime: 516.679932divided: 0.516680
+deltaTime: 16.667101
+vel: 22.279829, 0.000000
+pos: 588.852478, 640.000000
+
+Active
+elapsedTime: 533.347046divided: 0.533347
+deltaTime: 16.666901
+vel: 22.029825, 0.000000
+pos: 600.602051, 640.000000
+
+Active
+elapsedTime: 550.013916divided: 0.550014
+deltaTime: 16.667299
+vel: 21.779816, 0.000000
+pos: 612.581238, 640.000000
+
+Active
+elapsedTime: 566.681213divided: 0.566681
+deltaTime: 16.667000
+vel: 21.529810, 0.000000
+pos: 624.781799, 640.000000
+
+Active
+elapsedTime: 583.348206divided: 0.583348
+deltaTime: 16.666700
+vel: 21.279810, 0.000000
+pos: 637.195312, 640.000000
+
+Active
+elapsedTime: 600.014893divided: 0.600015
+deltaTime: 16.667400
+vel: 21.029799, 0.000000
+pos: 649.813477, 640.000000
+
+Active
+elapsedTime: 616.682312divided: 0.616682
+deltaTime: 16.666700
+vel: 20.779799, 0.000000
+pos: 662.627991, 640.000000
+
+Active
+elapsedTime: 633.348999divided: 0.633349
+deltaTime: 16.666800
+vel: 20.529797, 0.000000
+pos: 675.630493, 640.000000
+
+Active
+elapsedTime: 650.015808divided: 0.650016
+deltaTime: 16.667101
+vel: 20.279791, 0.000000
+pos: 688.812683, 640.000000
+
+Active
+elapsedTime: 666.682922divided: 0.666683
+deltaTime: 16.667000
+vel: 20.029785, 0.000000
+pos: 702.166199, 640.000000
+
+Active
+elapsedTime: 683.349915divided: 0.683350
+deltaTime: 16.666901
+vel: 19.779781, 0.000000
+pos: 715.682739, 640.000000
+
+Active
+elapsedTime: 700.016846divided: 0.700017
+deltaTime: 16.666901
+vel: 19.529778, 0.000000
+pos: 729.353882, 640.000000
+
+Active
+elapsedTime: 716.683716divided: 0.716684
+deltaTime: 16.667400
+vel: 19.279766, 0.000000
+pos: 743.171387, 640.000000
+
+Active
+elapsedTime: 733.351135divided: 0.733351
+deltaTime: 16.666700
+vel: 19.029766, 0.000000
+pos: 757.126892, 640.000000
+
+Active
+elapsedTime: 750.017822divided: 0.750018
+deltaTime: 16.666901
+vel: 18.779762, 0.000000
+pos: 771.212036, 640.000000
+
+Active
+elapsedTime: 766.684692divided: 0.766685
+deltaTime: 16.666700
+vel: 18.529762, 0.000000
+pos: 785.418518, 640.000000
+
+Active
+elapsedTime: 783.351379divided: 0.783351
+deltaTime: 16.667200
+vel: 18.279755, 0.000000
+pos: 799.737976, 640.000000
+
+Active
+elapsedTime: 800.018555divided: 0.800019
+deltaTime: 16.666700
+vel: 18.029755, 0.000000
+pos: 814.162109, 640.000000
+
+Active
+elapsedTime: 816.685242divided: 0.816685
+deltaTime: 16.667101
+vel: 17.779749, 0.000000
+pos: 828.682556, 640.000000
+
+Active
+elapsedTime: 833.352356divided: 0.833352
+deltaTime: 16.667101
+vel: 17.529743, 0.000000
+pos: 843.291016, 640.000000
+
+Active
+elapsedTime: 850.019470divided: 0.850019
+deltaTime: 16.667101
+vel: 17.279737, 0.000000
+pos: 857.979126, 640.000000
+
+Active
+elapsedTime: 866.686584divided: 0.866687
+deltaTime: 16.666901
+vel: 17.029734, 0.000000
+pos: 872.738586, 640.000000
+
+Active
+elapsedTime: 883.353516divided: 0.883354
+deltaTime: 16.666901
+vel: 16.779730, 0.000000
+pos: 887.561035, 640.000000
+
+Active
+elapsedTime: 900.020386divided: 0.900020
+deltaTime: 16.667400
+vel: 16.529718, 0.000000
+pos: 902.438110, 640.000000
+
+Active
+elapsedTime: 916.687805divided: 0.916688
+deltaTime: 16.667101
+vel: -0.000001, 16.279713
+pos: 887.438110, 669.923401
+
+Active
+elapsedTime: 933.354919divided: 0.933355
+deltaTime: 16.666800
+vel: -0.000001, 16.029711
+pos: 887.438110, 684.884827
+
+Active
+elapsedTime: 950.021729divided: 0.950022
+deltaTime: 16.666700
+vel: -0.000001, 15.779710
+pos: 887.438110, 699.875916
+
+Active
+elapsedTime: 966.688416divided: 0.966688
+deltaTime: 16.667000
+vel: -0.000001, 15.529705
+pos: 887.438110, 714.888306
+
+Active
+elapsedTime: 983.355408divided: 0.983355
+deltaTime: 16.667101
+vel: -0.000001, 15.279698
+pos: 887.438110, 729.913696
+
+Active
+elapsedTime: 1000.022522divided: 1.000023
+deltaTime: 16.666901
+vel: -0.000001, 15.029695
+pos: 887.438110, 744.943726
+
+Active
+elapsedTime: 1016.689453divided: 1.016689
+deltaTime: 16.666901
+vel: -0.000001, 14.779691
+pos: 887.438110, 759.970093
+
+Active
+elapsedTime: 1033.356323divided: 1.033356
+deltaTime: 16.666800
+vel: -0.000001, 14.529689
+pos: 887.438110, 774.984436
+
+Active
+elapsedTime: 1050.023071divided: 1.050023
+deltaTime: 16.667200
+vel: -0.000001, 14.279681
+pos: 887.438110, 789.978455
+
+Active
+elapsedTime: 1066.690308divided: 1.066690
+deltaTime: 16.667101
+vel: -0.000001, 14.029675
+pos: 887.438110, 804.943787
+
+Active
+elapsedTime: 1083.357422divided: 1.083357
+deltaTime: 16.667000
+vel: -0.000001, 13.779670
+pos: 887.438110, 819.872070
+
+Active
+elapsedTime: 1100.024414divided: 1.100024
+deltaTime: 16.666800
+vel: -0.000001, 13.529668
+pos: 887.438110, 834.755005
+
+Active
+elapsedTime: 1116.691162divided: 1.116691
+deltaTime: 16.666700
+vel: -0.000001, 13.279667
+pos: 887.438110, 849.584290
+
+Active
+elapsedTime: 1133.357910divided: 1.133358
+deltaTime: 16.667000
+vel: -0.000001, 13.029662
+pos: 887.438110, 864.351562
+
+Active
+elapsedTime: 1150.024902divided: 1.150025
+deltaTime: 16.667000
+vel: -0.000001, 12.779657
+pos: 887.438110, 879.048462
+
+Active
+elapsedTime: 1166.691895divided: 1.166692
+deltaTime: 16.667101
+vel: -0.000001, 12.529651
+pos: 887.438110, 893.666687
+
+Active
+elapsedTime: 1183.359009divided: 1.183359
+deltaTime: 16.666901
+vel: -0.000001, 12.279647
+pos: 887.438110, 908.197937
+
+Active
+elapsedTime: 1200.025879divided: 1.200026
+deltaTime: 16.666800
+vel: -0.000001, 12.029645
+pos: 887.438110, 922.633850
+
+Active
+elapsedTime: 1216.692627divided: 1.216693
+deltaTime: 16.667101
+vel: -0.000001, 11.779638
+pos: 887.438110, 936.966064
+
+Active
+elapsedTime: 1233.359741divided: 1.233360
+deltaTime: 16.667400
+vel: -0.000001, 11.529627
+pos: 887.438110, 951.186218
+
+Active
+elapsedTime: 1250.027100divided: 1.250027
+deltaTime: 16.666901
+vel: -0.000000, 11.279623
+pos: 887.438110, 965.286072
+
+Active
+elapsedTime: 1266.693970divided: 1.266694
+deltaTime: 16.666700
+vel: -0.000000, 11.029622
+pos: 887.438110, 979.257202
+
+Active
+elapsedTime: 1283.360718divided: 1.283361
+deltaTime: 16.666700
+vel: -0.000000, 10.779621
+pos: 887.438110, 993.091370
+
+Active
+elapsedTime: 1300.027466divided: 1.300027
+deltaTime: 16.666800
+vel: -0.000000, 10.529619
+pos: 887.438110, 1006.780151
+
+Active
+elapsedTime: 1316.694214divided: 1.316694
+deltaTime: 16.667200
+vel: -0.000000, 10.279612
+pos: 887.438110, 1020.315247
+
+Active
+elapsedTime: 1333.361450divided: 1.333362
+deltaTime: 16.667000
+vel: -0.000000, 10.029607
+pos: 887.438110, 1033.688354
+
+Active
+elapsedTime: 1350.028442divided: 1.350028
+deltaTime: 16.666800
+vel: -0.000000, 9.779605
+pos: 887.438110, 1046.891113
+
+Active
+elapsedTime: 1366.695190divided: 1.366695
+deltaTime: 16.666700
+vel: -0.000000, 9.529604
+pos: 887.438110, 1059.915161
+
+Active
+elapsedTime: 1383.361938divided: 1.383362
+deltaTime: 16.667101
+vel: -0.000000, 9.279597
+pos: 887.438110, 1072.752197
+
+Active
+elapsedTime: 1400.029053divided: 1.400029
+deltaTime: 16.667000
+vel: -0.000000, 9.029593
+pos: 887.438110, 1085.393921
+
+Active
+elapsedTime: 1416.696045divided: 1.416696
+deltaTime: 16.667000
+vel: -0.000000, 8.779588
+pos: 887.438110, 1097.831909
+
+Active
+elapsedTime: 1433.363037divided: 1.433363
+deltaTime: 16.679899
+vel: -0.000000, 8.529389
+pos: 887.438110, 1110.057617
+
+Active
+elapsedTime: 1450.042969divided: 1.450043
+deltaTime: 16.667200
+vel: -0.000000, 8.279382
+pos: 887.438110, 1122.063110
+
+Active
+elapsedTime: 1466.710205divided: 1.466710
+deltaTime: 16.667200
+vel: -0.000000, 8.029374
+pos: 887.438110, 1133.839844
+
+Active
+elapsedTime: 1483.377441divided: 1.483377
+deltaTime: 16.666700
+vel: -0.000000, 7.779374
+pos: 887.438110, 1145.379639
+
+Active
+elapsedTime: 1500.044189divided: 1.500044
+deltaTime: 16.667299
+vel: -0.000000, 7.529364
+pos: 887.438110, 1156.674072
+
+Active
+elapsedTime: 1516.711548divided: 1.516712
+deltaTime: 16.667101
+vel: -0.000000, 7.279357
+pos: 887.438110, 1167.714722
+
+Active
+elapsedTime: 1533.378662divided: 1.533379
+deltaTime: 16.667101
+vel: -0.000000, 7.029351
+pos: 887.438110, 1178.493408
+
+Active
+elapsedTime: 1550.045776divided: 1.550046
+deltaTime: 16.666800
+vel: -0.000000, 6.779349
+pos: 887.438110, 1189.001709
+
+Active
+elapsedTime: 1566.712524divided: 1.566712
+deltaTime: 16.667000
+vel: -0.000000, 6.529344
+pos: 887.438110, 1199.231323
+
+Active
+elapsedTime: 1583.379517divided: 1.583380
+deltaTime: 16.667101
+vel: -0.000000, 6.279337
+pos: 887.438110, 1209.173950
+
+Active
+elapsedTime: 1600.046631divided: 1.600047
+deltaTime: 16.666901
+vel: -0.000000, 6.029334
+pos: 887.438110, 1218.821167
+
+Active
+elapsedTime: 1616.713501divided: 1.616714
+deltaTime: 16.666901
+vel: -0.000000, 5.779330
+pos: 887.438110, 1228.164673
+
+Active
+elapsedTime: 1633.380371divided: 1.633380
+deltaTime: 16.666901
+vel: -0.000000, 5.529327
+pos: 887.438110, 1237.196167
+
+Active
+elapsedTime: 1650.047241divided: 1.650047
+deltaTime: 16.666700
+vel: -0.000000, 5.279326
+pos: 887.438110, 1245.907349
+
+Active
+elapsedTime: 1666.713989divided: 1.666714
+deltaTime: 16.667000
+vel: -0.000000, 5.029322
+pos: 887.438110, 1254.289795
+
+Active
+elapsedTime: 1683.380981divided: 1.683381
+deltaTime: 16.666800
+vel: -0.000000, 4.779320
+pos: 887.438110, 1262.335205
+
+Active
+elapsedTime: 1700.047729divided: 1.700048
+deltaTime: 16.667200
+vel: -0.000000, 4.529312
+pos: 887.438110, 1270.035278
+
+Active
+elapsedTime: 1716.714966divided: 1.716715
+deltaTime: 16.667299
+vel: -0.000000, 4.279302
+pos: 887.438110, 1277.381592
+
+Active
+elapsedTime: 1733.382324divided: 1.733382
+deltaTime: 16.667101
+vel: -0.000000, 4.029295
+pos: 887.438110, 1284.365845
+
+Active
+elapsedTime: 1750.049438divided: 1.750049
+deltaTime: 16.666901
+vel: -0.000000, 3.779292
+pos: 887.438110, 1290.979736
+
+Active
+elapsedTime: 1766.716309divided: 1.766716
+deltaTime: 16.666800
+vel: -0.000000, 3.529290
+pos: 887.438110, 1297.214966
+
+Active
+elapsedTime: 1783.383057divided: 1.783383
+deltaTime: 16.667000
+vel: -0.000000, 3.279285
+pos: 887.438110, 1303.063232
+
+Active
+elapsedTime: 1800.050049divided: 1.800050
+deltaTime: 16.666700
+vel: -0.000000, 3.029284
+pos: 887.438110, 1308.516113
+
+Active
+elapsedTime: 1816.716797divided: 1.816717
+deltaTime: 16.666901
+vel: -0.000000, 2.779281
+pos: 887.438110, 1313.565308
+
+Active
+elapsedTime: 1833.383667divided: 1.833384
+deltaTime: 16.666700
+vel: -0.000000, 2.529280
+pos: 887.438110, 1318.202393
+
+Active
+elapsedTime: 1850.050415divided: 1.850050
+deltaTime: 16.667299
+vel: -0.000000, 2.279271
+pos: 887.438110, 1322.419189
+
+Active
+elapsedTime: 1866.717773divided: 1.866718
+deltaTime: 16.666700
+vel: -0.000000, 2.029270
+pos: 887.438110, 1326.207275
+
+Active
+elapsedTime: 1883.384521divided: 1.883384
+deltaTime: 16.666700
+vel: -0.000000, 1.779270
+pos: 887.438110, 1329.558350
+
+Active
+elapsedTime: 1900.051270divided: 1.900051
+deltaTime: 16.667500
+vel: -0.000000, 1.529257
+pos: 887.438110, 1332.463989
+
+Active
+elapsedTime: 1916.718750divided: 1.916719
+deltaTime: 16.667299
+vel: -0.000000, 1.279248
+pos: 887.438110, 1334.915894
+
+Active
+elapsedTime: 0.000000divided: 0.000000
+deltaTime: 16.666901
+vel: 16.663469, -17.157354
+pos: 887.438110, 1334.915894
+
+Active
+elapsedTime: 16.666901divided: 0.016667
+deltaTime: 16.666700
+vel: 16.489292, -16.978014
+pos: 887.712952, 1334.632935
+
+Active
+elapsedTime: 33.333603divided: 0.033334
+deltaTime: 16.667400
+vel: 16.315107, -16.798668
+pos: 888.256775, 1334.072998
+
+Active
+elapsedTime: 50.001003divided: 0.050001
+deltaTime: 16.667000
+vel: 16.140926, -16.619326
+pos: 889.063843, 1333.242065
+
+Active
+elapsedTime: 66.667999divided: 0.066668
+deltaTime: 16.666901
+vel: 15.966747, -16.439983
+pos: 890.128296, 1332.145996
+
+Active
+elapsedTime: 83.334900divided: 0.083335
+deltaTime: 16.666901
+vel: 15.792568, -16.260641
+pos: 891.444397, 1330.790894
+
+Active
+elapsedTime: 100.001801divided: 0.100002
+deltaTime: 16.667000
+vel: 15.618388, -16.081299
+pos: 893.006287, 1329.182739
+
+Active
+elapsedTime: 116.668800divided: 0.116669
+deltaTime: 16.667000
+vel: 15.444208, -15.901957
+pos: 894.808167, 1327.327515
+
+Active
+elapsedTime: 133.335800divided: 0.133336
+deltaTime: 16.666901
+vel: 15.270029, -15.722615
+pos: 896.844238, 1325.231079
+
+Active
+elapsedTime: 150.002701divided: 0.150003
+deltaTime: 16.667000
+vel: 15.095849, -15.543273
+pos: 899.108643, 1322.899536
+
+Active
+elapsedTime: 166.669708divided: 0.166670
+deltaTime: 16.666800
+vel: 14.921671, -15.363933
+pos: 901.595642, 1320.338867
+
+Active
+elapsedTime: 183.336502divided: 0.183336
+deltaTime: 16.667200
+vel: 14.747489, -15.184587
+pos: 904.299377, 1317.554932
+
+Active
+elapsedTime: 200.003708divided: 0.200004
+deltaTime: 16.667200
+vel: 14.573307, -15.005242
+pos: 907.214111, 1314.553833
+
+Active
+elapsedTime: 216.670914divided: 0.216671
+deltaTime: 16.667000
+vel: 14.399127, -14.825900
+pos: 910.333984, 1311.341553
+
+Active
+elapsedTime: 233.337921divided: 0.233338
+deltaTime: 16.666800
+vel: 14.224949, -14.646560
+pos: 913.653198, 1307.923950
+
+Active
+elapsedTime: 250.004715divided: 0.250005
+deltaTime: 16.667101
+vel: 14.050768, -14.467216
+pos: 917.165955, 1304.307129
+
+Active
+elapsedTime: 266.671814divided: 0.266672
+deltaTime: 16.666800
+vel: 13.876590, -14.287875
+pos: 920.866455, 1300.496948
+
+Active
+elapsedTime: 283.338623divided: 0.283339
+deltaTime: 16.667400
+vel: 13.702406, -14.108528
+pos: 924.748901, 1296.499512
+
+Active
+elapsedTime: 300.006012divided: 0.300006
+deltaTime: 16.667299
+vel: 13.528223, -13.929182
+pos: 928.807434, 1292.320679
+
+Active
+elapsedTime: 316.673309divided: 0.316673
+deltaTime: 16.667101
+vel: 13.354042, -13.749838
+pos: 933.036316, 1287.966431
+
+Active
+elapsedTime: 333.340424divided: 0.333340
+deltaTime: 16.666800
+vel: 13.179864, -13.570498
+pos: 937.429688, 1283.442871
+
+Active
+elapsedTime: 350.007233divided: 0.350007
+deltaTime: 16.666700
+vel: 13.005687, -13.391158
+pos: 941.981750, 1278.755859
+
+Active
+elapsedTime: 366.673920divided: 0.366674
+deltaTime: 16.667299
+vel: 12.831504, -13.211812
+pos: 946.686707, 1273.911377
+
+Active
+elapsedTime: 383.341217divided: 0.383341
+deltaTime: 16.666800
+vel: 12.657326, -13.032472
+pos: 951.538757, 1268.915527
+
+Active
+elapsedTime: 400.008026divided: 0.400008
+deltaTime: 16.667000
+vel: 12.483146, -12.853129
+pos: 956.532104, 1263.774170
+
+Active
+elapsedTime: 416.675018divided: 0.416675
+deltaTime: 16.666700
+vel: 12.308969, -12.673790
+pos: 961.660950, 1258.493286
+
+Active
+elapsedTime: 433.341705divided: 0.433342
+deltaTime: 16.667400
+vel: 12.134785, -12.494443
+pos: 966.919434, 1253.078979
+
+Active
+elapsedTime: 450.009094divided: 0.450009
+deltaTime: 16.667200
+vel: 11.960603, -12.315098
+pos: 972.301819, 1247.537109
+
+Active
+elapsedTime: 466.676300divided: 0.466676
+deltaTime: 16.667000
+vel: 11.786423, -12.135756
+pos: 977.802246, 1241.873657
+
+Active
+elapsedTime: 483.343292divided: 0.483343
+deltaTime: 16.667299
+vel: 11.612240, -11.956409
+pos: 983.414917, 1236.094604
+
+Active
+elapsedTime: 500.010590divided: 0.500011
+deltaTime: 16.667000
+vel: 11.438060, -11.777067
+pos: 989.134094, 1230.205933
+
+Active
+elapsedTime: 516.677612divided: 0.516678
+deltaTime: 16.666800
+vel: 11.263882, -11.597727
+pos: 994.953918, 1224.213623
+
+Active
+elapsedTime: 533.344421divided: 0.533344
+deltaTime: 16.666700
+vel: 11.089705, -11.418387
+pos: 1000.868530, 1218.123657
+
+Active
+elapsedTime: 550.011108divided: 0.550011
+deltaTime: 16.667101
+vel: 10.915524, -11.239044
+pos: 1006.872192, 1211.942017
+
+Active
+elapsedTime: 566.678223divided: 0.566678
+deltaTime: 16.666901
+vel: 10.741344, -11.059703
+pos: 1012.959106, 1205.674683
+
+Active
+elapsedTime: 583.345093divided: 0.583345
+deltaTime: 16.667000
+vel: 10.567164, -10.880361
+pos: 1019.123413, 1199.327637
+
+Active
+elapsedTime: 600.012085divided: 0.600012
+deltaTime: 16.667000
+vel: 10.392984, -10.701018
+pos: 1025.359375, 1192.906860
+
+Active
+elapsedTime: 616.679077divided: 0.616679
+deltaTime: 16.666800
+vel: 10.218806, -10.521678
+pos: 1031.661133, 1186.418335
+
+Active
+elapsedTime: 633.345886divided: 0.633346
+deltaTime: 16.666901
+vel: 10.044627, -10.342337
+pos: 1038.022827, 1179.868042
+
+Active
+elapsedTime: 650.012817divided: 0.650013
+deltaTime: 16.666700
+vel: 9.870450, -10.162997
+pos: 1044.438721, 1173.261963
+
+Active
+elapsedTime: 666.679504divided: 0.666680
+deltaTime: 16.666700
+vel: 9.696273, -9.983658
+pos: 1050.903076, 1166.606079
+
+Active
+elapsedTime: 683.346191divided: 0.683346
+deltaTime: 16.667101
+vel: 9.522092, -9.804314
+pos: 1057.409912, 1159.906372
+
+Active
+elapsedTime: 700.013306divided: 0.700013
+deltaTime: 16.667101
+vel: 9.347911, -9.624969
+pos: 1063.953613, 1153.168823
+
+Active
+elapsedTime: 716.680420divided: 0.716680
+deltaTime: 16.666901
+vel: 9.173732, -9.445628
+pos: 1070.528198, 1146.399292
+
+Active
+elapsedTime: 733.347290divided: 0.733347
+deltaTime: 16.666800
+vel: 8.999554, -9.266288
+pos: 1077.128052, 1139.603882
+
+Active
+elapsedTime: 750.014099divided: 0.750014
+deltaTime: 16.667400
+vel: 8.825369, -9.086941
+pos: 1083.747192, 1132.788574
+
+Active
+elapsedTime: 766.681519divided: 0.766681
+deltaTime: 16.667400
+vel: 8.651184, -8.907594
+pos: 1090.379883, 1125.959229
+
+Active
+elapsedTime: 783.348938divided: 0.783349
+deltaTime: 16.667200
+vel: 8.477002, -8.728249
+pos: 1097.020386, 1119.121948
+
+Active
+elapsedTime: 800.016113divided: 0.800016
+deltaTime: 16.667101
+vel: 8.302821, -8.548904
+pos: 1103.662720, 1112.282715
+
+Active
+elapsedTime: 816.683228divided: 0.816683
+deltaTime: 16.667299
+vel: 8.128638, -8.369558
+pos: 1110.301270, 1105.447388
+
+Active
+elapsedTime: 833.350525divided: 0.833351
+deltaTime: 16.666700
+vel: 7.954461, -8.190219
+pos: 1116.930176, 1098.622070
+
+Active
+elapsedTime: 850.017212divided: 0.850017
+deltaTime: 16.667299
+vel: 7.780278, -8.010873
+pos: 1123.543579, 1091.812744
+
+Active
+elapsedTime: 866.684509divided: 0.866684
+deltaTime: 16.667101
+vel: 7.606096, -7.831529
+pos: 1130.135620, 1085.025269
+
+Active
+elapsedTime: 883.351624divided: 0.883352
+deltaTime: 16.667000
+vel: 7.431916, -7.652186
+pos: 1136.700562, 1078.265747
+
+Active
+elapsedTime: 900.018616divided: 0.900019
+deltaTime: 16.666901
+vel: 7.257737, -7.472845
+pos: 1143.232666, 1071.540039
+
+Active
+elapsedTime: 916.685547divided: 0.916686
+deltaTime: 16.667299
+vel: 7.083554, -7.293499
+pos: 1149.726074, 1064.854248
+
+Active
+elapsedTime: 933.352844divided: 0.933353
+deltaTime: 16.667000
+vel: 6.909374, -7.114156
+pos: 1156.174927, 1058.214233
+
+Active
+elapsedTime: 950.019836divided: 0.950020
+deltaTime: 16.667200
+vel: 6.735191, -6.934812
+pos: 1162.573486, 1051.625977
+
+Active
+elapsedTime: 966.687012divided: 0.966687
+deltaTime: 16.667101
+vel: 6.561010, -6.755468
+pos: 1168.915894, 1045.095581
+
+Active
+elapsedTime: 983.354126divided: 0.983354
+deltaTime: 16.667000
+vel: 6.386830, -6.576125
+pos: 1175.196411, 1038.628906
+
+Active
+elapsedTime: 1000.021118divided: 1.000021
+deltaTime: 16.667101
+vel: 6.212649, 6.396781
+pos: 1181.409180, 1060.025879
+
+Active
+elapsedTime: 1016.688232divided: 1.016688
+deltaTime: 16.667200
+vel: 6.038467, 6.217437
+pos: 1187.548462, 1066.347046
+
+Active
+elapsedTime: 1033.355469divided: 1.033355
+deltaTime: 16.667400
+vel: 5.864283, 6.038090
+pos: 1193.608398, 1072.586548
+
+Active
+elapsedTime: 1050.022827divided: 1.050023
+deltaTime: 16.667000
+vel: 5.690103, 5.858747
+pos: 1199.583130, 1078.738403
+
+Active
+elapsedTime: 1066.689819divided: 1.066690
+deltaTime: 16.666800
+vel: 5.515924, 5.679407
+pos: 1205.466919, 1084.796509
+
+Active
+elapsedTime: 1083.356567divided: 1.083357
+deltaTime: 16.667299
+vel: 5.341741, 5.500061
+pos: 1211.253906, 1090.755005
+
+Active
+elapsedTime: 1100.023926divided: 1.100024
+deltaTime: 16.666700
+vel: 5.167564, 5.320722
+pos: 1216.938354, 1096.607910
+
+Active
+elapsedTime: 1116.690674divided: 1.116691
+deltaTime: 16.667000
+vel: 4.993384, 5.141379
+pos: 1222.514404, 1102.349243
+
+Active
+elapsedTime: 1133.357666divided: 1.133358
+deltaTime: 16.666800
+vel: 4.819206, 4.962039
+pos: 1227.976318, 1107.973022
+
+Active
+elapsedTime: 1150.024414divided: 1.150024
+deltaTime: 16.667101
+vel: 4.645024, 4.782695
+pos: 1233.318237, 1113.473267
+
+Active
+elapsedTime: 1166.691528divided: 1.166692
+deltaTime: 16.667299
+vel: 4.470841, 4.603349
+pos: 1238.534302, 1118.843994
+
+Active
+elapsedTime: 1183.358887divided: 1.183359
+deltaTime: 16.666901
+vel: 4.296662, 4.424008
+pos: 1243.618774, 1124.079224
+
+Active
+elapsedTime: 1200.025757divided: 1.200026
+deltaTime: 16.666700
+vel: 4.122485, 4.244668
+pos: 1248.565918, 1129.172974
+
+Active
+elapsedTime: 1216.692505divided: 1.216692
+deltaTime: 16.666901
+vel: 3.948306, 4.065327
+pos: 1253.369751, 1134.119263
+
+Active
+elapsedTime: 1233.359375divided: 1.233359
+deltaTime: 16.666700
+vel: 3.774128, 3.885988
+pos: 1258.024658, 1138.912109
+
+Active
+elapsedTime: 1250.026123divided: 1.250026
+deltaTime: 16.667101
+vel: 3.599947, 3.706644
+pos: 1262.524658, 1143.545532
+
+Active
+elapsedTime: 1266.693237divided: 1.266693
+deltaTime: 16.666901
+vel: 3.425768, 3.527303
+pos: 1266.864014, 1148.013550
+
+Active
+elapsedTime: 1283.360107divided: 1.283360
+deltaTime: 16.667101
+vel: 3.251587, 3.347959
+pos: 1271.036987, 1152.310181
+
+Active
+elapsedTime: 1300.027222divided: 1.300027
+deltaTime: 16.666700
+vel: 3.077410, 3.168619
+pos: 1275.037720, 1156.429443
+
+Active
+elapsedTime: 1316.693970divided: 1.316694
+deltaTime: 16.667101
+vel: 2.903229, 2.989276
+pos: 1278.860352, 1160.365356
+
+Active
+elapsedTime: 1333.361084divided: 1.333361
+deltaTime: 16.667000
+vel: 2.729048, 2.809933
+pos: 1282.499146, 1164.112061
+
+Active
+elapsedTime: 1350.028076divided: 1.350028
+deltaTime: 16.667000
+vel: 2.554868, 2.630591
+pos: 1285.948242, 1167.663452
+
+Active
+elapsedTime: 1366.695068divided: 1.366695
+deltaTime: 16.666700
+vel: 2.380691, 2.451251
+pos: 1289.201904, 1171.013550
+
+Active
+elapsedTime: 1383.361816divided: 1.383362
+deltaTime: 16.667101
+vel: 2.206510, 2.271908
+pos: 1292.254272, 1174.156372
+
+Active
+elapsedTime: 1400.028931divided: 1.400029
+deltaTime: 16.666700
+vel: 2.032333, 2.092568
+pos: 1295.099609, 1177.086060
+
+Active
+elapsedTime: 1416.695679divided: 1.416696
+deltaTime: 16.667101
+vel: 1.858152, 1.913224
+pos: 1297.732056, 1179.796509
+
+Active
+elapsedTime: 1433.362793divided: 1.433363
+deltaTime: 16.666700
+vel: 1.683975, 1.733885
+pos: 1300.145752, 1182.281738
+
+Active
+elapsedTime: 1450.029541divided: 1.450029
+deltaTime: 16.666901
+vel: 1.509795, 1.554543
+pos: 1302.334961, 1184.535889
+
+Active
+elapsedTime: 1466.696411divided: 1.466696
+deltaTime: 16.666901
+vel: 1.335616, 1.375202
+pos: 1304.293945, 1186.552856
+
+Active
+elapsedTime: 0.000000divided: 0.000000
+deltaTime: 16.667299
+vel: 8.505480, 25.597818
+pos: 1304.293945, 1186.552856
+
+Active
+elapsedTime: 16.667299divided: 0.016667
+deltaTime: 16.667400
+vel: 8.426645, 25.360561
+pos: 1304.434448, 1186.975586
+
+Active
+elapsedTime: 33.334702divided: 0.033335
+deltaTime: 16.667101
+vel: 8.347813, 25.123308
+pos: 1304.712769, 1187.813110
+
+Active
+elapsedTime: 50.001801divided: 0.050002
+deltaTime: 16.667000
+vel: 8.268980, 24.886057
+pos: 1305.126221, 1189.057495
+
+Active
+elapsedTime: 66.668800divided: 0.066669
+deltaTime: 16.667200
+vel: 8.190146, 24.648804
+pos: 1305.672241, 1190.700806
+
+Active
+elapsedTime: 83.335999divided: 0.083336
+deltaTime: 16.666901
+vel: 8.111315, 24.411554
+pos: 1306.348267, 1192.735107
+
+Active
+elapsedTime: 100.002899divided: 0.100003
+deltaTime: 16.667200
+vel: 8.032481, 24.174301
+pos: 1307.151489, 1195.152588
+
+Active
+elapsedTime: 116.670097divided: 0.116670
+deltaTime: 16.667101
+vel: 7.953649, 23.937048
+pos: 1308.079468, 1197.945312
+
+Active
+elapsedTime: 133.337204divided: 0.133337
+deltaTime: 16.666700
+vel: 7.874818, 23.699800
+pos: 1309.129517, 1201.105347
+
+Active
+elapsedTime: 150.003906divided: 0.150004
+deltaTime: 16.667200
+vel: 7.795985, 23.462547
+pos: 1310.298950, 1204.624878
+
+Active
+elapsedTime: 166.671112divided: 0.166671
+deltaTime: 16.667101
+vel: 7.717152, 23.225294
+pos: 1311.585205, 1208.495850
+
+Active
+elapsedTime: 183.338211divided: 0.183338
+deltaTime: 16.667000
+vel: 7.638320, 22.988043
+pos: 1312.985596, 1212.710449
+
+Active
+elapsedTime: 200.005219divided: 0.200005
+deltaTime: 16.666800
+vel: 7.559489, 22.750795
+pos: 1314.497559, 1217.260742
+
+Active
+elapsedTime: 216.672012divided: 0.216672
+deltaTime: 16.666800
+vel: 7.480658, 22.513548
+pos: 1316.118408, 1222.138794
+
+Active
+elapsedTime: 233.338806divided: 0.233339
+deltaTime: 16.667101
+vel: 7.401825, 22.276295
+pos: 1317.845581, 1227.336670
+
+Active
+elapsedTime: 250.005905divided: 0.250006
+deltaTime: 16.667200
+vel: 7.322992, 22.039042
+pos: 1319.676392, 1232.846558
+
+Active
+elapsedTime: 266.673096divided: 0.266673
+deltaTime: 16.666901
+vel: 7.244160, 21.801792
+pos: 1321.608154, 1238.660522
+
+Active
+elapsedTime: 283.339996divided: 0.283340
+deltaTime: 16.667200
+vel: 7.165327, 21.564539
+pos: 1323.638428, 1244.770630
+
+Active
+elapsedTime: 300.007202divided: 0.300007
+deltaTime: 16.667299
+vel: 7.086493, 21.327284
+pos: 1325.764404, 1251.168945
+
+Active
+elapsedTime: 316.674500divided: 0.316675
+deltaTime: 16.667200
+vel: 7.007660, 21.090031
+pos: 1327.983521, 1257.847656
+
+Active
+elapsedTime: 333.341705divided: 0.333342
+deltaTime: 16.666700
+vel: 6.928830, 20.852783
+pos: 1330.293213, 1264.798706
+
+Active
+elapsedTime: 350.008392divided: 0.350008
+deltaTime: 16.666901
+vel: 6.849998, 20.615534
+pos: 1332.690796, 1272.014282
+
+Active
+elapsedTime: 366.675293divided: 0.366675
+deltaTime: 16.667000
+vel: 6.771166, 20.378283
+pos: 1335.173584, 1279.486450
+
+Active
+elapsedTime: 383.342285divided: 0.383342
+deltaTime: 16.667200
+vel: 6.692333, 20.141029
+pos: 1337.739014, 1287.207397
+
+Active
+elapsedTime: 400.009491divided: 0.400009
+deltaTime: 16.667000
+vel: 6.613501, 19.903778
+pos: 1340.384521, 1295.169067
+
+Active
+elapsedTime: 416.676483divided: 0.416676
+deltaTime: 16.666901
+vel: 6.534669, 19.666529
+pos: 1343.107422, 1303.363647
+
+Active
+elapsedTime: 433.343384divided: 0.433343
+deltaTime: 16.667299
+vel: 6.455835, 19.429274
+pos: 1345.905029, 1311.783203
+
+Active
+elapsedTime: 450.010681divided: 0.450011
+deltaTime: 16.667400
+vel: 6.377001, 19.192017
+pos: 1348.774780, 1320.419800
+
+Active
+elapsedTime: 466.678070divided: 0.466678
+deltaTime: 16.667101
+vel: 6.298169, 18.954763
+pos: 1351.713989, 1329.265625
+
+Active
+elapsedTime: 483.345184divided: 0.483345
+deltaTime: 16.667000
+vel: 6.219337, 18.717512
+pos: 1354.720093, 1338.312622
+
+Active
+elapsedTime: 500.012177divided: 0.500012
+deltaTime: 16.667101
+vel: 6.140504, 18.480259
+pos: 1357.790405, 1347.552979
+
+Active
+elapsedTime: 516.679260divided: 0.516679
+deltaTime: 16.669600
+vel: 6.061659, 18.242971
+pos: 1360.922363, 1356.978760
+
+Active
+elapsedTime: 533.348877divided: 0.533349
+deltaTime: 16.667299
+vel: 5.982826, 18.005716
+pos: 1364.113281, 1366.582031
+
+Active
+elapsedTime: 550.016174divided: 0.550016
+deltaTime: 16.667000
+vel: 5.903994, 17.768465
+pos: 1367.360596, 1376.354980
+
+Active
+elapsedTime: 566.683167divided: 0.566683
+deltaTime: 16.667299
+vel: 5.825160, 17.531210
+pos: 1370.661621, 1386.289673
+
+Active
+elapsedTime: 583.350464divided: 0.583350
+deltaTime: 16.667101
+vel: 5.746327, 17.293957
+pos: 1374.013794, 1396.378052
+
+Active
+elapsedTime: 600.017578divided: 0.600018
+deltaTime: 16.667299
+vel: 5.667494, 17.056702
+pos: 1377.414429, 1406.612427
+
+Active
+elapsedTime: 616.684875divided: 0.616685
+deltaTime: 16.679100
+vel: 5.588604, 16.819279
+pos: 1380.860840, 1416.984619
+
+Active
+elapsedTime: 633.363953divided: 0.633364
+deltaTime: 16.667101
+vel: 5.509772, 16.582026
+pos: 1384.350586, 1427.487061
+
+Active
+elapsedTime: 650.031067divided: 0.650031
+deltaTime: 16.666700
+vel: 5.430941, 16.344778
+pos: 1387.880859, 1438.111694
+
+Active
+elapsedTime: 666.697754divided: 0.666698
+deltaTime: 16.666901
+vel: 5.352109, 16.107529
+pos: 1391.449097, 1448.850586
+
+Active
+elapsedTime: 683.364624divided: 0.683365
+deltaTime: 16.666901
+vel: 5.273278, 15.870279
+pos: 1395.052612, 1459.695801
+
+Active
+elapsedTime: 700.031494divided: 0.700032
+deltaTime: 16.667000
+vel: 5.194446, 15.633028
+pos: 1398.688843, 1470.639404
+
+Active
+elapsedTime: 716.698486divided: 0.716698
+deltaTime: 16.667000
+vel: 5.115613, 15.395777
+pos: 1402.355225, 1481.673584
+
+Active
+elapsedTime: 733.365479divided: 0.733365
+deltaTime: 16.667500
+vel: 5.036779, 15.158519
+pos: 1406.049072, 1492.790283
+
+Active
+elapsedTime: 750.032959divided: 0.750033
+deltaTime: 16.667400
+vel: 4.957945, 14.921262
+pos: 1409.767700, 1503.981689
+
+Active
+elapsedTime: 766.700378divided: 0.766700
+deltaTime: 16.667101
+vel: 4.879112, 14.684010
+pos: 1413.508545, 1515.239868
+
+Active
+elapsedTime: 783.367493divided: 0.783368
+deltaTime: 16.666800
+vel: 4.800281, 14.446761
+pos: 1417.268921, 1526.557007
+
+Active
+elapsedTime: 800.034302divided: 0.800034
+deltaTime: 16.667101
+vel: 4.721448, 14.209509
+pos: 1421.046265, 1537.925049
+
+Active
+elapsedTime: 816.701416divided: 0.816701
+deltaTime: 16.667200
+vel: 4.642615, 13.972255
+pos: 1424.837891, 1549.336182
+
+Active
+elapsedTime: 833.368591divided: 0.833369
+deltaTime: 16.667101
+vel: 4.563783, 13.735003
+pos: 1428.641235, 1560.782471
+
+Active
+elapsedTime: 850.035706divided: 0.850036
+deltaTime: 16.666700
+vel: 4.484952, 13.497756
+pos: 1432.453613, 1572.256104
+
+Active
+elapsedTime: 866.702393divided: 0.866702
+deltaTime: 16.667101
+vel: 4.406119, 13.260504
+pos: 1436.272461, 1583.749023
+
+Active
+elapsedTime: 883.369507divided: 0.883370
+deltaTime: 16.670900
+vel: 4.327269, 13.023197
+pos: 1440.095093, 1595.253296
+
+Active
+elapsedTime: 900.040405divided: 0.900040
+deltaTime: 16.667900
+vel: 4.248432, 12.785933
+pos: 1443.918823, 1606.761108
+
+Active
+elapsedTime: 916.708313divided: 0.916708
+deltaTime: 16.666901
+vel: 4.169600, 12.548684
+pos: 1447.741089, 1618.264648
+
+Active
+elapsedTime: 933.375244divided: 0.933375
+deltaTime: 16.666901
+vel: 4.090769, 12.311435
+pos: 1451.559326, 1629.755859
+
+Active
+elapsedTime: 950.042114divided: 0.950042
+deltaTime: 16.667601
+vel: 4.011934, 12.074175
+pos: 1455.370850, 1641.226807
+
+Active
+elapsedTime: 966.709717divided: 0.966710
+deltaTime: 16.667000
+vel: 3.933101, 11.836924
+pos: 1459.172974, 1652.669678
+
+Active
+elapsedTime: 983.376709divided: 0.983377
+deltaTime: 16.667101
+vel: 3.854269, 11.599671
+pos: 1462.963135, 1664.076538
+
+Active
+elapsedTime: 1000.043823divided: 1.000044
+deltaTime: 16.666700
+vel: 3.775438, 11.362425
+pos: 1466.738770, 1675.439453
+
+Active
+elapsedTime: 1016.710510divided: 1.016711
+deltaTime: 16.667299
+vel: 3.696604, 11.125170
+pos: 1470.497192, 1686.750488
+
+Active
+elapsedTime: 1033.377808divided: 1.033378
+deltaTime: 16.667000
+vel: 3.617772, 10.887918
+pos: 1474.235718, 1698.001831
+
+Active
+elapsedTime: 1050.044800divided: 1.050045
+deltaTime: 16.667101
+vel: 3.538939, 10.650666
+pos: 1477.951782, 1709.185547
+
+Active
+elapsedTime: 1066.711914divided: 1.066712
+deltaTime: 16.667101
+vel: 3.460106, 10.413414
+pos: 1481.642700, 1720.293701
+
+Active
+elapsedTime: 1083.379028divided: 1.083379
+deltaTime: 16.667299
+vel: 3.381272, 10.176159
+pos: 1485.305908, 1731.318359
+
+Active
+elapsedTime: 1100.046387divided: 1.100046
+deltaTime: 16.666800
+vel: 3.302441, 9.938910
+pos: 1488.938721, 1742.251587
+
+Active
+elapsedTime: 1116.713135divided: 1.116713
+deltaTime: 16.667101
+vel: 3.223608, 9.701658
+pos: 1492.538574, 1753.085571
+
+Active
+elapsedTime: 1133.380249divided: 1.133380
+deltaTime: 16.666700
+vel: 3.144777, 9.464412
+pos: 1496.102783, 1763.812378
+
+Active
+elapsedTime: 1150.046997divided: 1.150047
+deltaTime: 16.666901
+vel: 3.065945, 9.227162
+pos: 1499.628784, 1774.424072
+
+Active
+elapsedTime: 1166.713867divided: 1.166714
+deltaTime: 16.667101
+vel: 2.987112, 8.989910
+pos: 1503.113892, 1784.912720
+
+Active
+elapsedTime: 1183.380981divided: 1.183381
+deltaTime: 16.667299
+vel: 2.908279, 8.752655
+pos: 1506.555542, 1795.270386
+
+Active
+elapsedTime: 1200.048340divided: 1.200048
+deltaTime: 16.666700
+vel: 2.829448, 8.515409
+pos: 1509.951050, 1805.489258
+
+Active
+elapsedTime: 1216.715088divided: 1.216715
+deltaTime: 16.666800
+vel: 2.750617, 8.278160
+pos: 1513.297729, 1815.561401
+
+Active
+elapsedTime: 1233.381836divided: 1.233382
+deltaTime: 16.667299
+vel: 2.671783, 8.040905
+pos: 1516.593018, 1825.478882
+
+Active
+elapsedTime: 1250.049194divided: 1.250049
+deltaTime: 16.667000
+vel: 2.592951, 7.803654
+pos: 1519.834351, 1835.233887
+
+Active
+elapsedTime: 1266.716187divided: 1.266716
+deltaTime: 16.666800
+vel: 2.514119, 7.566406
+pos: 1523.019043, 1844.818359
+
+Active
+elapsedTime: 1283.382935divided: 1.283383
+deltaTime: 16.666700
+vel: 2.435288, 7.329160
+pos: 1526.144409, 1854.224487
+
+Active
+elapsedTime: 1300.049683divided: 1.300050
+deltaTime: 16.667101
+vel: 2.356456, 7.091908
+pos: 1529.207886, 1863.444336
+
+Active
+elapsedTime: 1316.716797divided: 1.316717
+deltaTime: 16.666700
+vel: 2.277625, 6.854661
+pos: 1532.206909, 1872.469971
+
+Active
+elapsedTime: 1333.383545divided: 1.333384
+deltaTime: 16.666700
+vel: 2.198794, 6.617414
+pos: 1535.138794, 1881.293579
+
+Active
+elapsedTime: 1350.050293divided: 1.350050
+deltaTime: 16.667101
+vel: 2.119961, 6.380162
+pos: 1538.000854, 1889.907104
+
+Active
+elapsedTime: 1366.717407divided: 1.366717
+deltaTime: 16.667299
+vel: 2.041128, 6.142907
+pos: 1540.790527, 1898.302734
+
+Active
+elapsedTime: 0.000000divided: 0.000000
+deltaTime: 16.666800
+vel: 0.885887, 0.000000
+pos: 768.000000, 512.000000
+
+Active
+elapsedTime: 0.000000divided: 0.000000
+deltaTime: 16.666800
+vel: -14.238902, 19.561771
+pos: 768.000000, 512.000000
+
+Active
+elapsedTime: 16.666800divided: 0.016667
+deltaTime: 16.666700
+vel: -14.091777, 19.359646
+pos: 767.765137, 512.322693
+
+Active
+elapsedTime: 33.333500divided: 0.033333
+deltaTime: 16.667299
+vel: -13.944646, 19.157515
+pos: 767.300293, 512.961304
+
+Active
+elapsedTime: 50.000801divided: 0.050001
+deltaTime: 16.667101
+vel: -13.797517, 18.955385
+pos: 766.610413, 513.909058
+
+Active
+elapsedTime: 66.667900divided: 0.066668
+deltaTime: 16.667101
+vel: -13.650388, 18.753256
+pos: 765.700378, 515.159302
+
+Active
+elapsedTime: 83.334999divided: 0.083335
+deltaTime: 16.667299
+vel: -13.503257, 18.551125
+pos: 764.575073, 516.705261
+
+Active
+elapsedTime: 100.002296divided: 0.100002
+deltaTime: 16.666901
+vel: -13.356130, 18.348997
+pos: 763.239441, 518.540222
+
+Active
+elapsedTime: 116.669197divided: 0.116669
+deltaTime: 16.666800
+vel: -13.209003, 18.146872
+pos: 761.698364, 520.657410
+
+Active
+elapsedTime: 133.335999divided: 0.133336
+deltaTime: 16.684099
+vel: -13.061725, 17.944536
+pos: 759.956787, 523.050049
+
+Active
+elapsedTime: 150.020096divided: 0.150020
+deltaTime: 16.667400
+vel: -12.914593, 17.742403
+pos: 758.019348, 525.711792
+
+Active
+elapsedTime: 166.687500divided: 0.166688
+deltaTime: 16.667101
+vel: -12.767464, 17.540274
+pos: 755.891174, 528.635559
+
+Active
+elapsedTime: 183.354599divided: 0.183355
+deltaTime: 16.666901
+vel: -12.620337, 17.338146
+pos: 753.577148, 531.814575
+
+Active
+elapsedTime: 200.021500divided: 0.200022
+deltaTime: 16.666700
+vel: -12.473211, 17.136021
+pos: 751.082214, 535.242126
+
+Active
+elapsedTime: 216.688202divided: 0.216688
+deltaTime: 16.667000
+vel: -12.326083, 16.933893
+pos: 748.411316, 538.911499
+
+Active
+elapsedTime: 233.355194divided: 0.233355
+deltaTime: 16.666901
+vel: -12.178956, 16.731766
+pos: 745.569275, 542.815918
+
+Active
+elapsedTime: 250.022095divided: 0.250022
+deltaTime: 16.666901
+vel: -12.031829, 16.529638
+pos: 742.561035, 546.948669
+
+Active
+elapsedTime: 266.688995divided: 0.266689
+deltaTime: 16.667200
+vel: -11.884699, 16.327507
+pos: 739.391541, 551.303040
+
+Active
+elapsedTime: 283.356201divided: 0.283356
+deltaTime: 16.666901
+vel: -11.737572, 16.125380
+pos: 736.065613, 555.872253
+
+Active
+elapsedTime: 300.023102divided: 0.300023
+deltaTime: 16.666901
+vel: -11.590445, 15.923252
+pos: 732.588196, 560.649597
+
+Active
+elapsedTime: 316.690002divided: 0.316690
+deltaTime: 16.667000
+vel: -11.443316, 15.721124
+pos: 728.964233, 565.628296
+
+Active
+elapsedTime: 333.356995divided: 0.333357
+deltaTime: 16.666901
+vel: -11.296189, 15.518996
+pos: 725.198547, 570.801636
+
+Active
+elapsedTime: 350.023895divided: 0.350024
+deltaTime: 16.667000
+vel: -11.149061, 15.316868
+pos: 721.296082, 576.162903
+
+Active
+elapsedTime: 366.690887divided: 0.366691
+deltaTime: 16.666901
+vel: -11.001934, 15.114740
+pos: 717.261780, 581.705322
+
+Active
+elapsedTime: 383.357788divided: 0.383358
+deltaTime: 16.667000
+vel: -10.854806, 14.912612
+pos: 713.100525, 587.422180
+
+Active
+elapsedTime: 400.024780divided: 0.400025
+deltaTime: 16.666901
+vel: -10.707679, 14.710485
+pos: 708.817200, 593.306763
+
+Active
+elapsedTime: 416.691681divided: 0.416692
+deltaTime: 16.667000
+vel: -10.560551, 14.508356
+pos: 704.416687, 599.352295
+
+Active
+elapsedTime: 433.358673divided: 0.433359
+deltaTime: 16.666901
+vel: -10.413424, 14.306229
+pos: 699.903931, 605.552002
+
+Active
+elapsedTime: 450.025574divided: 0.450026
+deltaTime: 16.667299
+vel: -10.266293, 14.104096
+pos: 695.283813, 611.899231
+
+Active
+elapsedTime: 466.692871divided: 0.466693
+deltaTime: 16.672701
+vel: -10.119114, 13.901899
+pos: 690.561279, 618.387146
+
+Active
+elapsedTime: 483.365570divided: 0.483366
+deltaTime: 16.666800
+vel: -9.971988, 13.699774
+pos: 685.741150, 625.009155
+
+Active
+elapsedTime: 500.032379divided: 0.500032
+deltaTime: 16.667000
+vel: -9.824860, 13.497645
+pos: 680.828430, 631.758423
+
+Active
+elapsedTime: 516.699402divided: 0.516699
+deltaTime: 16.667000
+vel: -9.677732, 13.295517
+pos: 675.827942, 638.628235
+
+Active
+elapsedTime: 533.366394divided: 0.533366
+deltaTime: 16.667200
+vel: -9.530602, 13.093387
+pos: 670.744629, 645.611816
+
+Active
+elapsedTime: 550.033569divided: 0.550034
+deltaTime: 16.666700
+vel: -9.383476, 12.891262
+pos: 665.583374, 652.702454
+
+Active
+elapsedTime: 566.700256divided: 0.566700
+deltaTime: 16.667000
+vel: -9.236348, 12.689134
+pos: 660.349121, 659.893372
+
+Active
+elapsedTime: 583.367249divided: 0.583367
+deltaTime: 16.667200
+vel: -9.089218, 12.487003
+pos: 655.046753, 667.177856
+
+Active
+elapsedTime: 600.034424divided: 0.600034
+deltaTime: 16.666800
+vel: -8.942092, 12.284878
+pos: 649.681213, 674.549194
+
+Active
+elapsedTime: 616.701233divided: 0.616701
+deltaTime: 16.667101
+vel: -8.794963, 12.082748
+pos: 644.257324, 682.000610
+
+Active
+elapsedTime: 633.368347divided: 0.633368
+deltaTime: 16.667200
+vel: -8.647833, 11.880618
+pos: 638.780090, 689.525391
+
+Active
+elapsedTime: 650.035522divided: 0.650036
+deltaTime: 16.667200
+vel: -8.500703, 11.678488
+pos: 633.254333, 697.116821
+
+Active
+elapsedTime: 666.702698divided: 0.666703
+deltaTime: 16.670401
+vel: -8.353545, 11.476318
+pos: 627.684998, 704.768127
+
+Active
+elapsedTime: 683.373108divided: 0.683373
+deltaTime: 16.666800
+vel: -8.206419, 11.274193
+pos: 622.076965, 712.472595
+
+Active
+elapsedTime: 700.039917divided: 0.700040
+deltaTime: 16.667700
+vel: -8.059285, 11.072056
+pos: 616.435120, 720.223450
+
+Active
+elapsedTime: 716.707642divided: 0.716708
+deltaTime: 16.667299
+vel: -7.912155, 10.869924
+pos: 610.764404, 728.013977
+
+Active
+elapsedTime: 733.374939divided: 0.733375
+deltaTime: 16.666901
+vel: -7.765028, 10.667796
+pos: 605.069702, 735.837463
+
+Active
+elapsedTime: 750.041870divided: 0.750042
+deltaTime: 16.667000
+vel: -7.617899, 10.465668
+pos: 599.355957, 743.687134
+
+Active
+elapsedTime: 766.708862divided: 0.766709
+deltaTime: 16.666901
+vel: -7.470772, 10.263540
+pos: 593.628052, 751.556274
+
+Active
+elapsedTime: 783.375732divided: 0.783376
+deltaTime: 16.667299
+vel: -7.323642, 10.061408
+pos: 587.890869, 759.438110
+
+Active
+elapsedTime: 800.043030divided: 0.800043
+deltaTime: 16.667101
+vel: -7.176513, 9.859279
+pos: 582.149353, 767.325928
+
+Active
+elapsedTime: 816.710144divided: 0.816710
+deltaTime: 16.667400
+vel: -7.029381, 9.657146
+pos: 576.408386, 775.213013
+
+Active
+elapsedTime: 833.377563divided: 0.833378
+deltaTime: 16.666700
+vel: -6.882256, 9.455021
+pos: 570.672852, 783.092590
+
+Active
+elapsedTime: 850.044250divided: 0.850044
+deltaTime: 16.667299
+vel: -6.735126, 9.252889
+pos: 564.947693, 790.957947
+
+Active
+elapsedTime: 866.711548divided: 0.866712
+deltaTime: 16.667500
+vel: -6.587993, 9.050755
+pos: 559.237793, 798.802368
+
+Active
+elapsedTime: 883.379028divided: 0.883379
+deltaTime: 16.666700
+vel: -6.440868, 8.848630
+pos: 553.548096, 806.619080
+
+Active
+elapsedTime: 900.045715divided: 0.900046
+deltaTime: 16.666700
+vel: -6.293743, 8.646505
+pos: 547.883423, 814.401306
+
+Active
+elapsedTime: 916.712402divided: 0.916712
+deltaTime: 16.670700
+vel: -6.146582, 8.444332
+pos: 542.248779, 822.142334
+
+Active
+elapsedTime: 933.383118divided: 0.933383
+deltaTime: 16.666700
+vel: -5.999457, 8.242208
+pos: 536.648987, 829.835449
+
+Active
+elapsedTime: 950.049805divided: 0.950050
+deltaTime: 16.667101
+vel: -5.852328, 8.040078
+pos: 531.088989, 837.473938
+
+Active
+elapsedTime: 966.716919divided: 0.966717
+deltaTime: 16.667400
+vel: -5.705196, 7.837945
+pos: 525.573669, 845.051025
+
+Active
+elapsedTime: 983.384338divided: 0.983384
+deltaTime: 16.667299
+vel: -5.558066, 7.635813
+pos: 520.107971, 852.559937
+
+Active
+elapsedTime: 1000.051636divided: 1.000052
+deltaTime: 16.667200
+vel: -5.410936, 7.433682
+pos: 514.696777, 859.994019
+
+Active
+elapsedTime: 1016.718811divided: 1.016719
+deltaTime: 16.677700
+vel: -5.263713, 7.231424
+pos: 509.345062, 867.346313
+
+Active
+elapsedTime: 1033.396484divided: 1.033396
+deltaTime: 16.667000
+vel: -5.116585, 7.029296
+pos: 504.057587, 874.610352
+
+Active
+elapsedTime: 1050.063477divided: 1.050063
+deltaTime: 16.667101
+vel: -4.969456, 6.827167
+pos: 498.839355, 881.779297
+
+Active
+elapsedTime: 1066.730591divided: 1.066731
+deltaTime: 16.667000
+vel: -4.822328, 6.625038
+pos: 493.695221, 888.846436
+
+Active
+elapsedTime: 1083.397583divided: 1.083398
+deltaTime: 16.667101
+vel: -4.675199, 6.422909
+pos: 488.630127, 895.804993
+
+Active
+elapsedTime: 1100.064697divided: 1.100065
+deltaTime: 16.667299
+vel: -4.528069, 6.220777
+pos: 483.648956, 902.648254
+
+Active
+elapsedTime: 1116.732056divided: 1.116732
+deltaTime: 16.667299
+vel: -4.380938, 6.018645
+pos: 478.756622, 909.369446
+
+Active
+elapsedTime: 1133.399414divided: 1.133399
+deltaTime: 16.666700
+vel: -4.233813, 5.816521
+pos: 473.958008, 915.961914
+
+Active
+elapsedTime: 1150.066162divided: 1.150066
+deltaTime: 16.666700
+vel: -4.086688, 5.614396
+pos: 469.258057, 922.418823
+
+Active
+elapsedTime: 1166.732910divided: 1.166733
+deltaTime: 16.666800
+vel: -3.939561, 5.412270
+pos: 464.661652, 928.733521
+
+Active
+elapsedTime: 1183.399658divided: 1.183400
+deltaTime: 16.667299
+vel: -3.792431, 5.210138
+pos: 460.173706, 934.899170
+
+Active
+elapsedTime: 1200.067017divided: 1.200067
+deltaTime: 16.667000
+vel: -3.645303, 5.008010
+pos: 455.799103, 940.909119
+
+Active
+elapsedTime: 1216.734009divided: 1.216734
+deltaTime: 16.667101
+vel: -3.498174, 4.805881
+pos: 451.542755, 946.756592
+
+Active
+elapsedTime: 1233.401123divided: 1.233401
+deltaTime: 16.666700
+vel: -3.351048, 4.603756
+pos: 447.409576, 952.434875
+
+Active
+elapsedTime: 1250.067871divided: 1.250068
+deltaTime: 16.667101
+vel: -3.203919, 4.401627
+pos: 443.404449, 957.937195
+
+Active
+elapsedTime: 1266.734985divided: 1.266735
+deltaTime: 16.667000
+vel: -3.056791, 4.199498
+pos: 439.532318, 963.256836
+
+Active
+elapsedTime: 1283.401978divided: 1.283402
+deltaTime: 16.666800
+vel: -2.909665, 3.997372
+pos: 435.798035, 968.387085
+
+Active
+elapsedTime: 1300.068726divided: 1.300069
+deltaTime: 16.666800
+vel: -2.762539, 3.795247
+pos: 432.206543, 973.321167
+
+Active
+elapsedTime: 1316.735474divided: 1.316736
+deltaTime: 16.666901
+vel: -2.615412, 3.593120
+pos: 428.762726, 978.052368
+
+Active
+elapsedTime: 1333.402344divided: 1.333402
+deltaTime: 16.667299
+vel: -2.468281, 3.390988
+pos: 425.471527, 982.573914
+
+Active
+elapsedTime: 1350.069702divided: 1.350070
+deltaTime: 16.667400
+vel: -2.321149, 3.188854
+pos: 422.337799, 986.879089
+
+Active
+elapsedTime: 1366.737061divided: 1.366737
+deltaTime: 16.667299
+vel: -2.174019, 2.986722
+pos: 419.366486, 990.961182
+
+Active
+elapsedTime: 1383.404419divided: 1.383404
+deltaTime: 16.666800
+vel: -2.026892, 2.784597
+pos: 416.562469, 994.813416
+
+Active
+elapsedTime: 1400.071167divided: 1.400071
+deltaTime: 16.667200
+vel: -1.879763, 2.582466
+pos: 413.930664, 998.429077
+
+Active
+elapsedTime: 1416.738403divided: 1.416738
+deltaTime: 16.667200
+vel: -1.732633, 2.380335
+pos: 411.475983, 1001.801392
+
+Active
+elapsedTime: 1433.405640divided: 1.433406
+deltaTime: 16.666901
+vel: -1.585506, 2.178208
+pos: 409.203308, 1004.923645
+
+Active
+elapsedTime: 1450.072510divided: 1.450073
+deltaTime: 16.667000
+vel: -1.438378, 1.976080
+pos: 407.117554, 1007.789124
+
+Active
+elapsedTime: 1466.739502divided: 1.466740
+deltaTime: 16.667101
+vel: -1.291249, 1.773950
+pos: 405.223633, 1010.391052
+
+Active
+elapsedTime: 1483.406616divided: 1.483407
+deltaTime: 16.667000
+vel: -1.144121, 1.571822
+pos: 403.526428, 1012.722717
+
+Active
+elapsedTime: 1500.073608divided: 1.500074
+deltaTime: 16.666901
+vel: -0.996994, 1.369695
+pos: 402.030853, 1014.777344
+
+Active
+elapsedTime: 0.000000divided: 0.000000
+deltaTime: 16.666700
+vel: 16.047960, 27.976660
+pos: 402.030853, 1014.777344
+
+Active
+elapsedTime: 16.666700divided: 0.016667
+deltaTime: 16.667299
+vel: 15.923563, 27.759796
+pos: 402.296234, 1015.239990
+
+Active
+elapsedTime: 33.334000divided: 0.033334
+deltaTime: 16.666700
+vel: 15.799170, 27.542940
+pos: 402.822876, 1016.158081
+
+Active
+elapsedTime: 50.000702divided: 0.050001
+deltaTime: 16.667000
+vel: 15.674774, 27.326080
+pos: 403.606628, 1017.524414
+
+Active
+elapsedTime: 66.667702divided: 0.066668
+deltaTime: 16.667101
+vel: 15.550378, 27.109219
+pos: 404.643341, 1019.331726
+
+Active
+elapsedTime: 83.334801divided: 0.083335
+deltaTime: 16.667200
+vel: 15.425982, 26.892355
+pos: 405.928864, 1021.572815
+
+Active
+elapsedTime: 100.001999divided: 0.100002
+deltaTime: 16.667101
+vel: 15.301585, 26.675493
+pos: 407.459045, 1024.240479
+
+Active
+elapsedTime: 116.669098divided: 0.116669
+deltaTime: 16.666700
+vel: 15.177192, 26.458637
+pos: 409.229767, 1027.327393
+
+Active
+elapsedTime: 133.335800divided: 0.133336
+deltaTime: 16.667200
+vel: 15.052795, 26.241774
+pos: 411.236847, 1030.826416
+
+Active
+elapsedTime: 150.003006divided: 0.150003
+deltaTime: 16.667500
+vel: 14.928396, 26.024906
+pos: 413.476166, 1034.730225
+
+Active
+elapsedTime: 166.670502divided: 0.166671
+deltaTime: 16.666800
+vel: 14.804003, 25.808048
+pos: 415.943542, 1039.031616
+
+Active
+elapsedTime: 183.337296divided: 0.183337
+deltaTime: 16.666800
+vel: 14.679609, 25.591190
+pos: 418.634857, 1043.723389
+
+Active
+elapsedTime: 200.004089divided: 0.200004
+deltaTime: 16.667101
+vel: 14.555213, 25.374329
+pos: 421.545959, 1048.798340
+
+Active
+elapsedTime: 216.671188divided: 0.216671
+deltaTime: 16.667299
+vel: 14.430816, 25.157465
+pos: 424.672699, 1054.249268
+
+Active
+elapsedTime: 233.338486divided: 0.233338
+deltaTime: 16.667200
+vel: 14.306419, 24.940601
+pos: 428.010925, 1060.068848
+
+Active
+elapsedTime: 250.005692divided: 0.250006
+deltaTime: 16.667299
+vel: 14.182022, 24.723738
+pos: 431.556519, 1066.249878
+
+Active
+elapsedTime: 266.673004divided: 0.266673
+deltaTime: 16.667101
+vel: 14.057626, 24.506876
+pos: 435.305298, 1072.785156
+
+Active
+elapsedTime: 283.340118divided: 0.283340
+deltaTime: 16.666700
+vel: 13.933232, 24.290020
+pos: 439.253143, 1079.667480
+
+Active
+elapsedTime: 300.006805divided: 0.300007
+deltaTime: 16.666700
+vel: 13.808839, 24.073164
+pos: 443.395874, 1086.889648
+
+Active
+elapsedTime: 316.673492divided: 0.316673
+deltaTime: 16.667299
+vel: 13.684442, 23.856300
+pos: 447.729370, 1094.444336
+
+Active
+elapsedTime: 333.340790divided: 0.333341
+deltaTime: 16.666700
+vel: 13.560048, 23.639444
+pos: 452.249481, 1102.324341
+
+Active
+elapsedTime: 350.007477divided: 0.350007
+deltaTime: 16.667299
+vel: 13.435651, 23.422581
+pos: 456.952057, 1110.522461
+
+Active
+elapsedTime: 366.674774divided: 0.366675
+deltaTime: 16.666901
+vel: 13.311256, 23.205723
+pos: 461.832947, 1119.031372
+
+Active
+elapsedTime: 383.341675divided: 0.383342
+deltaTime: 16.666700
+vel: 13.186863, 22.988867
+pos: 466.888031, 1127.843994
+
+Active
+elapsedTime: 400.008362divided: 0.400008
+deltaTime: 16.667101
+vel: 13.062467, 22.772005
+pos: 472.113129, 1136.953003
+
+Active
+elapsedTime: 416.675476divided: 0.416675
+deltaTime: 16.666800
+vel: 12.938073, 22.555147
+pos: 477.504120, 1146.351196
+
+Active
+elapsedTime: 433.342285divided: 0.433342
+deltaTime: 16.666700
+vel: 12.813680, 22.338291
+pos: 483.056824, 1156.031372
+
+Active
+elapsedTime: 450.008972divided: 0.450009
+deltaTime: 16.667000
+vel: 12.689284, 22.121431
+pos: 488.767120, 1165.986206
+
+Active
+elapsedTime: 466.675964divided: 0.466676
+deltaTime: 16.667200
+vel: 12.564888, 21.904568
+pos: 494.630859, 1176.208496
+
+Active
+elapsedTime: 483.343170divided: 0.483343
+deltaTime: 16.667299
+vel: 12.440491, 21.687704
+pos: 500.643890, 1186.691040
+
+Active
+elapsedTime: 500.010468divided: 0.500010
+deltaTime: 16.666700
+vel: 12.316097, 21.470848
+pos: 506.802063, 1197.426636
+
+Active
+elapsedTime: 516.677185divided: 0.516677
+deltaTime: 16.666700
+vel: 12.191705, 21.253992
+pos: 513.101257, 1208.408081
+
+Active
+elapsedTime: 533.343872divided: 0.533344
+deltaTime: 16.666700
+vel: 12.067312, 21.037136
+pos: 519.537292, 1219.628052
+
+Active
+elapsedTime: 550.010559divided: 0.550011
+deltaTime: 16.667200
+vel: 11.942916, 20.820272
+pos: 526.106018, 1231.079468
+
+Active
+elapsedTime: 566.677734divided: 0.566678
+deltaTime: 16.667000
+vel: 11.818521, 20.603413
+pos: 532.803284, 1242.755005
+
+Active
+elapsedTime: 583.344727divided: 0.583345
+deltaTime: 16.667400
+vel: 11.694122, 20.386547
+pos: 539.625000, 1254.647339
+
+Active
+elapsedTime: 600.012146divided: 0.600012
+deltaTime: 16.666800
+vel: 11.569729, 20.169689
+pos: 546.566956, 1266.749390
+
+Active
+elapsedTime: 616.678955divided: 0.616679
+deltaTime: 16.667200
+vel: 11.445333, 19.952826
+pos: 553.625061, 1279.053833
+
+Active
+elapsedTime: 633.346130divided: 0.633346
+deltaTime: 16.667400
+vel: 11.320934, 19.735960
+pos: 560.795105, 1291.553467
+
+Active
+elapsedTime: 650.013550divided: 0.650014
+deltaTime: 16.667200
+vel: 11.196538, 19.519096
+pos: 568.072998, 1304.241089
+
+Active
+elapsedTime: 666.680725divided: 0.666681
+deltaTime: 16.666800
+vel: 11.072145, 19.302238
+pos: 575.454590, 1317.109497
+
+Active
+elapsedTime: 683.347534divided: 0.683348
+deltaTime: 16.666800
+vel: 10.947751, 19.085381
+pos: 582.935730, 1330.151489
+
+Active
+elapsedTime: 700.014343divided: 0.700014
+deltaTime: 16.667200
+vel: 10.823355, 18.868517
+pos: 590.512207, 1343.359741
+
+Active
+elapsedTime: 716.681519divided: 0.716682
+deltaTime: 16.667801
+vel: 10.698954, 18.651646
+pos: 598.179932, 1356.727051
+
+Active
+elapsedTime: 733.349304divided: 0.733349
+deltaTime: 16.667400
+vel: 10.574555, 18.434780
+pos: 605.934753, 1370.246216
+
+Active
+elapsedTime: 750.016724divided: 0.750017
+deltaTime: 16.667299
+vel: 10.450158, 18.217916
+pos: 613.772522, 1383.909912
+
+Active
+elapsedTime: 766.684021divided: 0.766684
+deltaTime: 16.666901
+vel: 10.325764, 18.001059
+pos: 621.689148, 1397.711060
+
+Active
+elapsedTime: 783.350952divided: 0.783351
+deltaTime: 16.667200
+vel: 10.201367, 17.784195
+pos: 629.680420, 1411.642334
+
+Active
+elapsedTime: 800.018127divided: 0.800018
+deltaTime: 16.666800
+vel: 10.076974, 17.567337
+pos: 637.742188, 1425.696533
+
+Active
+elapsedTime: 816.684937divided: 0.816685
+deltaTime: 16.667400
+vel: 9.952576, 17.350471
+pos: 645.870300, 1439.866455
+
+Active
+elapsedTime: 833.352356divided: 0.833352
+deltaTime: 16.666700
+vel: 9.828182, 17.133615
+pos: 654.060669, 1454.144775
+
+Active
+elapsedTime: 850.019043divided: 0.850019
+deltaTime: 16.666901
+vel: 9.703788, 16.916758
+pos: 662.309082, 1468.524292
+
+Active
+elapsedTime: 866.685913divided: 0.866686
+deltaTime: 16.667400
+vel: 9.579390, 16.699892
+pos: 670.611389, 1482.997803
+
+Active
+elapsedTime: 883.353333divided: 0.883353
+deltaTime: 16.666800
+vel: 9.454996, 16.483034
+pos: 678.963501, 1497.558105
+
+Active
+elapsedTime: 900.020142divided: 0.900020
+deltaTime: 16.666700
+vel: 9.330603, 16.266178
+pos: 687.361206, 1512.197998
+
+Active
+elapsedTime: 916.686829divided: 0.916687
+deltaTime: 16.785801
+vel: 9.205320, 16.047771
+pos: 695.799622, 1526.908813
+
+Active
+elapsedTime: 933.472656divided: 0.933473
+deltaTime: 16.667101
+vel: 9.080924, 15.830910
+pos: 704.276428, 1541.686523
+
+Active
+elapsedTime: 950.139771divided: 0.950140
+deltaTime: 16.667299
+vel: 8.956527, 15.614046
+pos: 712.786377, 1556.522095
+
+Active
+elapsedTime: 966.807068divided: 0.966807
+deltaTime: 16.667400
+vel: 8.832129, 15.397181
+pos: 721.325317, 1571.408203
+
+Active
+elapsedTime: 983.474487divided: 0.983474
+deltaTime: 16.667000
+vel: 8.707733, 15.180321
+pos: 729.889160, 1586.337646
+
+Active
+elapsedTime: 1000.141479divided: 1.000142
+deltaTime: 16.666901
+vel: 8.583339, 14.963462
+pos: 738.473694, 1601.303223
+
+Active
+elapsedTime: 1016.808350divided: 1.016808
+deltaTime: 16.666700
+vel: 8.458945, 14.746606
+pos: 747.074829, 1616.297729
+
+Active
+elapsedTime: 1033.475098divided: 1.033475
+deltaTime: 16.667400
+vel: 8.334547, 14.529740
+pos: 755.688354, 1631.313843
+
+Active
+elapsedTime: 1050.142456divided: 1.050142
+deltaTime: 16.666800
+vel: 8.210154, 14.312882
+pos: 764.310181, 1646.344360
+
+Active
+elapsedTime: 1066.809204divided: 1.066809
+deltaTime: 16.667700
+vel: 8.085753, 14.096013
+pos: 772.936157, 1661.382080
+
+Active
+elapsedTime: 1083.476929divided: 1.083477
+deltaTime: 16.667200
+vel: 7.961357, 13.879150
+pos: 781.562134, 1676.419800
+
+Active
+elapsedTime: 1100.144165divided: 1.100144
+deltaTime: 16.666901
+vel: 7.836962, 13.662292
+pos: 790.183899, 1691.450317
+
+Active
+elapsedTime: 1116.811035divided: 1.116811
+deltaTime: 16.667000
+vel: 7.712567, 13.445432
+pos: 798.797363, 1706.466309
+
+Active
+elapsedTime: 1133.478027divided: 1.133478
+deltaTime: 16.667000
+vel: 7.588171, 13.228572
+pos: 807.398376, 1721.460571
+
+Active
+elapsedTime: 1150.145020divided: 1.150145
+deltaTime: 16.667299
+vel: 7.463774, 13.011708
+pos: 815.982788, 1736.425903
+
+Active
+elapsedTime: 1166.812378divided: 1.166812
+deltaTime: 16.667200
+vel: 7.339377, 12.794846
+pos: 824.546448, 1751.355103
+
+Active
+elapsedTime: 1183.479614divided: 1.183480
+deltaTime: 16.666700
+vel: 7.214984, 12.577990
+pos: 833.085205, 1766.240845
+
+Active
+elapsedTime: 1200.146362divided: 1.200146
+deltaTime: 16.666901
+vel: 7.090590, 12.361131
+pos: 841.594971, 1781.076050
+
+Active
+elapsedTime: 1216.813232divided: 1.216813
+deltaTime: 16.666901
+vel: 6.966195, -12.144272
+pos: 850.071533, 1751.298706
+
+Active
+elapsedTime: 1233.480103divided: 1.233480
+deltaTime: 16.667200
+vel: 6.841798, -11.927409
+pos: 858.510742, 1736.586426
+
+Active
+elapsedTime: 1250.147339divided: 1.250147
+deltaTime: 16.666800
+vel: 6.717404, -11.710551
+pos: 866.908508, 1721.946533
+
+Active
+elapsedTime: 1266.814087divided: 1.266814
+deltaTime: 16.667000
+vel: 6.593009, -11.493691
+pos: 875.260620, 1707.386108
+
+Active
+elapsedTime: 1283.481079divided: 1.283481
+deltaTime: 16.666800
+vel: 6.468615, -11.276834
+pos: 883.562988, 1692.912476
+
+Active
+elapsedTime: 1300.147827divided: 1.300148
+deltaTime: 16.667000
+vel: 6.344220, -11.059974
+pos: 891.811401, 1678.532837
+
+Active
+elapsedTime: 1316.814819divided: 1.316815
+deltaTime: 16.667101
+vel: 6.219824, -10.843112
+pos: 900.001770, 1664.254517
+
+Active
+elapsedTime: 1333.481934divided: 1.333482
+deltaTime: 16.667200
+vel: 6.095427, -10.626249
+pos: 908.129883, 1650.084595
+
+Active
+elapsedTime: 1350.149170divided: 1.350149
+deltaTime: 16.666901
+vel: 5.971033, -10.409390
+pos: 916.191650, 1636.030396
+
+Active
+elapsedTime: 1366.816040divided: 1.366816
+deltaTime: 16.667000
+vel: 5.846637, -10.192531
+pos: 924.182922, 1622.099121
+
+Active
+elapsedTime: 1383.483032divided: 1.383483
+deltaTime: 16.667101
+vel: 5.722241, -9.975669
+pos: 932.099548, 1608.297974
+
+Active
+elapsedTime: 1400.150146divided: 1.400150
+deltaTime: 16.666700
+vel: 5.597848, -9.758813
+pos: 939.937378, 1594.634155
+
+Active
+elapsedTime: 1416.816895divided: 1.416817
+deltaTime: 16.667000
+vel: 5.473453, -9.541953
+pos: 947.692261, 1581.114990
+
+Active
+elapsedTime: 1433.483887divided: 1.433484
+deltaTime: 16.666800
+vel: 5.349059, -9.325095
+pos: 955.360046, 1567.747559
+
+Active
+elapsedTime: 1450.150635divided: 1.450151
+deltaTime: 16.667299
+vel: 5.224662, -9.108232
+pos: 962.936584, 1554.539307
+
+Active
+elapsedTime: 1466.817993divided: 1.466818
+deltaTime: 16.667200
+vel: 5.100265, -8.891369
+pos: 970.417725, 1541.497314
+
+Active
+elapsedTime: 1483.485229divided: 1.483485
+deltaTime: 16.667200
+vel: 4.975868, 8.674506
+pos: 977.799377, 1569.365845
+
+Active
+elapsedTime: 1500.152466divided: 1.500152
+deltaTime: 16.667000
+vel: 4.851473, 8.457646
+pos: 985.077332, 1582.053589
+
+Active
+elapsedTime: 1516.819458divided: 1.516819
+deltaTime: 16.666800
+vel: 4.727079, 8.240788
+pos: 992.247437, 1594.553345
+
+Active
+elapsedTime: 1533.486206divided: 1.533486
+deltaTime: 16.667200
+vel: 4.602682, 8.023926
+pos: 999.305603, 1606.857910
+
+Active
+elapsedTime: 1550.153442divided: 1.550153
+deltaTime: 16.666901
+vel: 4.478288, 7.807067
+pos: 1006.247620, 1618.960083
+
+Active
+elapsedTime: 1566.820312divided: 1.566820
+deltaTime: 16.667101
+vel: 4.353892, 7.590206
+pos: 1013.069397, 1630.852539
+
+Active
+elapsedTime: 1583.487427divided: 1.583487
+deltaTime: 16.666800
+vel: 4.229498, 7.373348
+pos: 1019.766724, 1642.528198
+
+Active
+elapsedTime: 1600.154175divided: 1.600154
+deltaTime: 16.666800
+vel: 4.105104, 7.156491
+pos: 1026.335571, 1653.979736
+
+Active
+elapsedTime: 1616.820923divided: 1.616821
+deltaTime: 16.666800
+vel: 3.980710, 6.939633
+pos: 1032.771606, 1665.199829
+
+Active
+elapsedTime: 1633.487671divided: 1.633488
+deltaTime: 16.667299
+vel: 3.856313, 6.722769
+pos: 1039.070801, 1676.181396
+
+Active
+elapsedTime: 1650.155029divided: 1.650155
+deltaTime: 16.667299
+vel: 3.731915, 6.505905
+pos: 1045.229004, 1686.917114
+
+Active
+elapsedTime: 1666.822388divided: 1.666822
+deltaTime: 16.667500
+vel: 3.607516, 6.289039
+pos: 1051.242065, 1697.399780
+
+Active
+elapsedTime: 1683.489868divided: 1.683490
+deltaTime: 16.666700
+vel: 3.483123, 6.072183
+pos: 1057.105835, 1707.622192
+
+Active
+elapsedTime: 1700.156616divided: 1.700157
+deltaTime: 16.666800
+vel: 3.358730, 5.855325
+pos: 1062.816162, 1717.577148
+
+Active
+elapsedTime: 1716.823364divided: 1.716823
+deltaTime: 16.666800
+vel: 3.234336, 5.638468
+pos: 1068.368896, 1727.257446
+
+Active
+elapsedTime: 1733.490112divided: 1.733490
+deltaTime: 16.666700
+vel: 3.109943, 5.421612
+pos: 1073.760010, 1736.655762
+
+Active
+elapsedTime: 1750.156860divided: 1.750157
+deltaTime: 16.667200
+vel: 2.985546, 5.204749
+pos: 1078.985229, 1745.764893
+
+Active
+elapsedTime: 1766.824097divided: 1.766824
+deltaTime: 16.667000
+vel: 2.861151, 4.987889
+pos: 1084.040405, 1754.577637
+
+Active
+elapsedTime: 1783.491089divided: 1.783491
+deltaTime: 16.666700
+vel: 2.736758, 4.771032
+pos: 1088.921387, 1763.086670
+
+Active
+elapsedTime: 1800.157837divided: 1.800158
+deltaTime: 16.667000
+vel: 2.612363, 4.554172
+pos: 1093.624023, 1771.284912
+
+Active
+elapsedTime: 1816.824829divided: 1.816825
+deltaTime: 16.666700
+vel: 2.487970, 4.337316
+pos: 1098.144287, 1779.165039
+
+Active
+elapsedTime: 1833.491577divided: 1.833492
+deltaTime: 16.667200
+vel: 2.363573, 4.120453
+pos: 1102.477905, 1786.719849
+
+Active
+elapsedTime: 1850.158813divided: 1.850159
+deltaTime: 16.666800
+vel: 2.239179, 3.903596
+pos: 1106.620728, 1793.942139
+
+Active
+elapsedTime: 1866.825562divided: 1.866826
+deltaTime: 16.666901
+vel: 2.114785, 3.686737
+pos: 1110.568604, 1800.824585
+
+Active
+elapsedTime: 1883.492432divided: 1.883492
+deltaTime: 16.667299
+vel: 1.990387, 3.469873
+pos: 1114.317505, 1807.360107
+
+Active
+elapsedTime: 1900.159790divided: 1.900160
+deltaTime: 16.666700
+vel: 1.865994, 3.253017
+pos: 1117.863159, 1813.541382
+
+Active
+elapsedTime: 1916.826538divided: 1.916826
+deltaTime: 16.666800
+vel: 1.741601, 3.036159
+pos: 1121.201538, 1819.361206
+
+Active
+elapsedTime: 1933.493286divided: 1.933493
+deltaTime: 16.667299
+vel: 1.617203, 2.819295
+pos: 1124.328369, 1824.812256
+
+Active
+elapsedTime: 1950.160645divided: 1.950161
+deltaTime: 16.667200
+vel: 1.492806, 2.602432
+pos: 1127.239624, 1829.887451
+
+Active
+elapsedTime: 1966.827881divided: 1.966828
+deltaTime: 16.667299
+vel: 1.368409, 2.385568
+pos: 1129.931030, 1834.579468
+
+Active
+elapsedTime: 1983.495239divided: 1.983495
+deltaTime: 16.666700
+vel: 1.244016, 2.168712
+pos: 1132.398560, 1838.881104
+
+Active
+elapsedTime: 2000.161987divided: 2.000162
+deltaTime: 16.667200
+vel: 1.119619, 1.951849
+pos: 1134.637939, 1842.785156
+
+Active
+elapsedTime: 2016.829224divided: 2.016829
+deltaTime: 16.666901
+vel: 0.995225, 1.734990
+pos: 1136.645142, 1846.284302
+
+Active
+elapsedTime: 2033.496094divided: 2.033496
+deltaTime: 16.667200
+vel: 0.870828, 1.518128
+pos: 1138.416016, 1849.371460
+
+Active
+elapsedTime: 2050.163330divided: 2.050163
+deltaTime: 16.667400
+vel: 0.746430, 1.301262
+pos: 1139.946289, 1852.039307
+
+Active
+elapsedTime: 0.000000divided: 0.000000
+deltaTime: 16.666901
+vel: 21.417442, 0.000000
+pos: 1139.946289, 1852.039307
+
+Active
+elapsedTime: 16.666901divided: 0.016667
+deltaTime: 16.666700
+vel: 21.167442, 0.000000
+pos: 1140.299072, 1852.039307
+
+Active
+elapsedTime: 33.333603divided: 0.033334
+deltaTime: 16.666901
+vel: 20.917439, 0.000000
+pos: 1140.996338, 1852.039307
+
+Active
+elapsedTime: 50.000504divided: 0.050001
+deltaTime: 16.667000
+vel: 20.667433, 0.000000
+pos: 1142.029663, 1852.039307
+
+Active
+elapsedTime: 66.667503divided: 0.066668
+deltaTime: 16.666800
+vel: 20.417431, 0.000000
+pos: 1143.390869, 1852.039307
+
+Active
+elapsedTime: 83.334305divided: 0.083334
+deltaTime: 16.667299
+vel: 20.167421, 0.000000
+pos: 1145.071533, 1852.039307
+
+Active
+elapsedTime: 100.001602divided: 0.100002
+deltaTime: 16.667299
+vel: 19.917412, 0.000000
+pos: 1147.063354, 1852.039307
+
+Active
+elapsedTime: 116.668900divided: 0.116669
+deltaTime: 16.667601
+vel: 19.667398, 0.000000
+pos: 1149.357910, 1852.039307
+
+Active
+elapsedTime: 133.336502divided: 0.133336
+deltaTime: 16.666800
+vel: 19.417397, 0.000000
+pos: 1151.946899, 1852.039307
+
+Active
+elapsedTime: 150.003296divided: 0.150003
+deltaTime: 16.667200
+vel: 19.167389, 0.000000
+pos: 1154.822021, 1852.039307
+
+Active
+elapsedTime: 166.670502divided: 0.166671
+deltaTime: 16.667000
+vel: 18.917383, 0.000000
+pos: 1157.974976, 1852.039307
+
+Active
+elapsedTime: 183.337494divided: 0.183337
+deltaTime: 16.666800
+vel: 18.667381, 0.000000
+pos: 1161.397461, 1852.039307
+
+Active
+elapsedTime: 200.004288divided: 0.200004
+deltaTime: 16.666901
+vel: 18.417377, 0.000000
+pos: 1165.081055, 1852.039307
+
+Active
+elapsedTime: 216.671188divided: 0.216671
+deltaTime: 16.667299
+vel: 18.167368, 0.000000
+pos: 1169.017456, 1852.039307
+
+Active
+elapsedTime: 233.338486divided: 0.233338
+deltaTime: 16.667400
+vel: 17.917356, 0.000000
+pos: 1173.198242, 1852.039307
+
+Active
+elapsedTime: 250.005890divided: 0.250006
+deltaTime: 16.667299
+vel: 17.667347, 0.000000
+pos: 1177.615234, 1852.039307
+
+Active
+elapsedTime: 266.673187divided: 0.266673
+deltaTime: 16.666700
+vel: 17.417347, 0.000000
+pos: 1182.260010, 1852.039307
+
+Active
+elapsedTime: 283.339874divided: 0.283340
+deltaTime: 16.667200
+vel: 17.167339, 0.000000
+pos: 1187.124146, 1852.039307
+
+Active
+elapsedTime: 300.007080divided: 0.300007
+deltaTime: 16.667299
+vel: 16.917330, 0.000000
+pos: 1192.199463, 1852.039307
+
+Active
+elapsedTime: 316.674377divided: 0.316674
+deltaTime: 16.672199
+vel: 16.667246, 0.000000
+pos: 1197.477539, 1852.039307
+
+Active
+elapsedTime: 333.346588divided: 0.333347
+deltaTime: 16.667200
+vel: 16.417238, 0.000000
+pos: 1202.950195, 1852.039307
+
+Active
+elapsedTime: 350.013794divided: 0.350014
+deltaTime: 16.667400
+vel: 16.167227, 0.000000
+pos: 1208.608887, 1852.039307
+
+Active
+elapsedTime: 366.681183divided: 0.366681
+deltaTime: 16.666901
+vel: 15.917223, 0.000000
+pos: 1214.445435, 1852.039307
+
+Active
+elapsedTime: 383.348083divided: 0.383348
+deltaTime: 16.667000
+vel: 15.667218, 0.000000
+pos: 1220.451416, 1852.039307
+
+Active
+elapsedTime: 400.015076divided: 0.400015
+deltaTime: 16.667299
+vel: 15.417209, 0.000000
+pos: 1226.618530, 1852.039307
+
+Active
+elapsedTime: 416.682373divided: 0.416682
+deltaTime: 16.667200
+vel: 15.167201, 0.000000
+pos: 1232.938477, 1852.039307
+
+Active
+elapsedTime: 433.349579divided: 0.433350
+deltaTime: 16.667200
+vel: 14.917193, 0.000000
+pos: 1239.402832, 1852.039307
+
+Active
+elapsedTime: 450.016785divided: 0.450017
+deltaTime: 16.667400
+vel: 14.667182, 0.000000
+pos: 1246.003296, 1852.039307
+
+Active
+elapsedTime: 466.684174divided: 0.466684
+deltaTime: 16.666901
+vel: 14.417178, 0.000000
+pos: 1252.731567, 1852.039307
+
+Active
+elapsedTime: 483.351074divided: 0.483351
+deltaTime: 16.667299
+vel: 14.167169, 0.000000
+pos: 1259.579224, 1852.039307
+
+Active
+elapsedTime: 500.018372divided: 0.500018
+deltaTime: 16.666800
+vel: 13.917167, 0.000000
+pos: 1266.538086, 1852.039307
+
+Active
+elapsedTime: 516.685181divided: 0.516685
+deltaTime: 16.667200
+vel: 13.667159, 0.000000
+pos: 1273.599731, 1852.039307
+
+Active
+elapsedTime: 533.352356divided: 0.533352
+deltaTime: 16.666700
+vel: 13.417158, 0.000000
+pos: 1280.755859, 1852.039307
+
+Active
+elapsedTime: 550.019043divided: 0.550019
+deltaTime: 16.667299
+vel: 13.167149, 0.000000
+pos: 1287.998047, 1852.039307
+
+Active
+elapsedTime: 566.686340divided: 0.566686
+deltaTime: 16.666700
+vel: 12.917148, 0.000000
+pos: 1295.317993, 1852.039307
+
+Active
+elapsedTime: 583.353027divided: 0.583353
+deltaTime: 16.667400
+vel: 12.667136, 0.000000
+pos: 1302.707397, 1852.039307
+
+Active
+elapsedTime: 600.020447divided: 0.600020
+deltaTime: 16.667200
+vel: 12.417129, 0.000000
+pos: 1310.157959, 1852.039307
+
+Active
+elapsedTime: 616.687622divided: 0.616688
+deltaTime: 16.667299
+vel: 12.167119, 0.000000
+pos: 1317.661255, 1852.039307
+
+Active
+elapsedTime: 633.354919divided: 0.633355
+deltaTime: 16.666700
+vel: 11.917118, 0.000000
+pos: 1325.208984, 1852.039307
+
+Active
+elapsedTime: 650.021606divided: 0.650022
+deltaTime: 16.667101
+vel: 11.667111, 0.000000
+pos: 1332.792847, 1852.039307
+
+Active
+elapsedTime: 666.688721divided: 0.666689
+deltaTime: 16.666700
+vel: 11.417110, 0.000000
+pos: 1340.404541, 1852.039307
+
+Active
+elapsedTime: 683.355408divided: 0.683355
+deltaTime: 16.666700
+vel: 11.167109, 0.000000
+pos: 1348.035645, 1852.039307
+
+Active
+elapsedTime: 700.022095divided: 0.700022
+deltaTime: 16.666800
+vel: 10.917108, 0.000000
+pos: 1355.677856, 1852.039307
+
+Active
+elapsedTime: 716.688904divided: 0.716689
+deltaTime: 16.667000
+vel: 10.667103, 0.000000
+pos: 1363.322876, 1852.039307
+
+Active
+elapsedTime: 733.355896divided: 0.733356
+deltaTime: 16.666700
+vel: 10.417102, 0.000000
+pos: 1370.962280, 1852.039307
+
+Active
+elapsedTime: 750.022583divided: 0.750023
+deltaTime: 16.667299
+vel: 10.167092, 0.000000
+pos: 1378.587769, 1852.039307
+
+Active
+elapsedTime: 766.689880divided: 0.766690
+deltaTime: 16.666800
+vel: 9.917090, 0.000000
+pos: 1386.191162, 1852.039307
+
+Active
+elapsedTime: 783.356689divided: 0.783357
+deltaTime: 16.666800
+vel: 9.667089, 0.000000
+pos: 1393.763916, 1852.039307
+
+Active
+elapsedTime: 800.023499divided: 0.800023
+deltaTime: 16.676399
+vel: 9.416943, 0.000000
+pos: 1401.297729, 1852.039307
+
+Active
+elapsedTime: 816.699890divided: 0.816700
+deltaTime: 16.667000
+vel: 9.166938, 0.000000
+pos: 1408.784424, 1852.039307
+
+Active
+elapsedTime: 833.366882divided: 0.833367
+deltaTime: 16.667400
+vel: 8.916926, 0.000000
+pos: 1416.215454, 1852.039307
+
+Active
+elapsedTime: 850.034302divided: 0.850034
+deltaTime: 16.666800
+vel: 8.666924, 0.000000
+pos: 1423.582642, 1852.039307
+
+Active
+elapsedTime: 866.701111divided: 0.866701
+deltaTime: 16.667101
+vel: 8.416918, 0.000000
+pos: 1430.877563, 1852.039307
+
+Active
+elapsedTime: 883.368225divided: 0.883368
+deltaTime: 16.667101
+vel: 8.166911, 0.000000
+pos: 1438.091919, 1852.039307
+
+Active
+elapsedTime: 900.035339divided: 0.900035
+deltaTime: 16.667000
+vel: 7.916906, 0.000000
+pos: 1445.217407, 1852.039307
+
+Active
+elapsedTime: 916.702332divided: 0.916702
+deltaTime: 16.666700
+vel: 7.666906, 0.000000
+pos: 1452.245728, 1852.039307
+
+Active
+elapsedTime: 933.369019divided: 0.933369
+deltaTime: 16.667000
+vel: 7.416901, 0.000000
+pos: 1459.168457, 1852.039307
+
+Active
+elapsedTime: 950.036011divided: 0.950036
+deltaTime: 16.667000
+vel: 7.166896, 0.000000
+pos: 1465.977295, 1852.039307
+
+Active
+elapsedTime: 966.703003divided: 0.966703
+deltaTime: 16.666901
+vel: 6.916893, 0.000000
+pos: 1472.663818, 1852.039307
+
+Active
+elapsedTime: 983.369873divided: 0.983370
+deltaTime: 16.667299
+vel: 6.666883, 0.000000
+pos: 1479.219849, 1852.039307
+
+Active
+elapsedTime: 1000.037170divided: 1.000037
+deltaTime: 16.666901
+vel: 6.416880, 0.000000
+pos: 1485.636963, 1852.039307
+
+Active
+elapsedTime: 1016.704102divided: 1.016704
+deltaTime: 16.666800
+vel: 6.166878, 0.000000
+pos: 1491.906860, 1852.039307
+
+Active
+elapsedTime: 1033.370850divided: 1.033371
+deltaTime: 16.667000
+vel: 5.916873, 0.000000
+pos: 1498.021240, 1852.039307
+
+Active
+elapsedTime: 1050.037842divided: 1.050038
+deltaTime: 16.667000
+vel: 5.666868, 0.000000
+pos: 1503.971680, 1852.039307
+
+Active
+elapsedTime: 1066.704834divided: 1.066705
+deltaTime: 16.667101
+vel: 5.416862, 0.000000
+pos: 1509.749878, 1852.039307
+
+Active
+elapsedTime: 1083.371948divided: 1.083372
+deltaTime: 16.666901
+vel: 5.166858, 0.000000
+pos: 1515.347534, 1852.039307
+
+Active
+elapsedTime: 1100.038818divided: 1.100039
+deltaTime: 16.667200
+vel: 4.916850, 0.000000
+pos: 1520.756226, 1852.039307
+
+Active
+elapsedTime: 1116.706055divided: 1.116706
+deltaTime: 16.667200
+vel: 4.666842, 0.000000
+pos: 1525.967773, 1852.039307
+
+Active
+elapsedTime: 1133.373291divided: 1.133373
+deltaTime: 16.667101
+vel: 4.416835, 0.000000
+pos: 1530.973755, 1852.039307
+
+Active
+elapsedTime: 1150.040405divided: 1.150040
+deltaTime: 16.667000
+vel: 4.166830, 0.000000
+pos: 1535.765747, 1852.039307
+
+Active
+elapsedTime: 1166.707397divided: 1.166707
+deltaTime: 16.667299
+vel: 3.916821, 0.000000
+pos: 1540.335571, 1852.039307
+
+Active
+elapsedTime: 1183.374756divided: 1.183375
+deltaTime: 16.666800
+vel: 3.666819, 0.000000
+pos: 1544.674805, 1852.039307
+
+Active
+elapsedTime: 1200.041504divided: 1.200042
+deltaTime: 16.666800
+vel: 3.416817, 0.000000
+pos: 1548.775146, 1852.039307
+
+Active
+elapsedTime: 1216.708252divided: 1.216708
+deltaTime: 16.666700
+vel: 3.166816, 0.000000
+pos: 1552.628296, 1852.039307
+
+Active
+elapsedTime: 1233.375000divided: 1.233375
+deltaTime: 16.666800
+vel: 2.916814, 0.000000
+pos: 1556.225830, 1852.039307
+
+Active
+elapsedTime: 1250.041748divided: 1.250042
+deltaTime: 16.666901
+vel: 2.666811, 0.000000
+pos: 1559.559448, 1852.039307
+
+Active
+elapsedTime: 1266.708618divided: 1.266709
+deltaTime: 16.667200
+vel: 2.416803, 0.000000
+pos: 1562.620850, 1852.039307
+
+Active
+elapsedTime: 1283.375854divided: 1.283376
+deltaTime: 16.683800
+vel: 2.166546, 0.000000
+pos: 1565.401367, 1852.039307
+
+Active
+elapsedTime: 1300.059692divided: 1.300060
+deltaTime: 16.667101
+vel: 1.916539, 0.000000
+pos: 1567.892944, 1852.039307
+
+Active
+elapsedTime: 1316.726807divided: 1.316727
+deltaTime: 16.667400
+vel: 1.666528, 0.000000
+pos: 1570.087280, 1852.039307
+
+Active
+elapsedTime: 1333.394165divided: 1.333394
+deltaTime: 16.667200
+vel: 1.416520, 0.000000
+pos: 1571.976074, 1852.039307
+
+Active
+elapsedTime: 0.000000divided: 0.000000
+deltaTime: 16.667000
+vel: 24.207188, -22.551336
+pos: 1571.976074, 1852.039307
+
+Active
+elapsedTime: 16.667000divided: 0.016667
+deltaTime: 16.667000
+vel: 24.024261, -22.380922
+pos: 1572.376465, 1851.666260
+
+Active
+elapsedTime: 33.334000divided: 0.033334
+deltaTime: 16.666901
+vel: 23.841337, -22.210510
+pos: 1573.171143, 1850.925903
+
+Active
+elapsedTime: 50.000900divided: 0.050001
+deltaTime: 16.666800
+vel: 23.658413, -22.040100
+pos: 1574.354126, 1849.823853
+
+Active
+elapsedTime: 66.667702divided: 0.066668
+deltaTime: 16.667400
+vel: 23.475483, -21.869682
+pos: 1575.919189, 1848.365845
+
+Active
+elapsedTime: 83.335098divided: 0.083335
+deltaTime: 16.666700
+vel: 23.292561, -21.699272
+pos: 1577.860229, 1846.557495
+
+Active
+elapsedTime: 100.001801divided: 0.100002
+deltaTime: 16.666800
+vel: 23.109636, -21.528862
+pos: 1580.171265, 1844.404541
+
+Active
+elapsedTime: 116.668602divided: 0.116669
+deltaTime: 16.667101
+vel: 22.926710, -21.358448
+pos: 1582.846069, 1841.912720
+
+Active
+elapsedTime: 133.335709divided: 0.133336
+deltaTime: 16.666901
+vel: 22.743786, -21.188036
+pos: 1585.878662, 1839.087646
+
+Active
+elapsedTime: 150.002609divided: 0.150003
+deltaTime: 16.667400
+vel: 22.560856, -21.017618
+pos: 1589.262817, 1835.934937
+
+Active
+elapsedTime: 166.670013divided: 0.166670
+deltaTime: 16.666800
+vel: 22.377932, -20.847208
+pos: 1592.992554, 1832.460327
+
+Active
+elapsedTime: 183.336807divided: 0.183337
+deltaTime: 16.667299
+vel: 22.195002, -20.676792
+pos: 1597.061768, 1828.669556
+
+Active
+elapsedTime: 200.004105divided: 0.200004
+deltaTime: 16.666800
+vel: 22.012077, -20.506382
+pos: 1601.464233, 1824.568237
+
+Active
+elapsedTime: 216.670898divided: 0.216671
+deltaTime: 16.667200
+vel: 21.829149, -20.335966
+pos: 1606.193970, 1820.161987
+
+Active
+elapsedTime: 233.338104divided: 0.233338
+deltaTime: 16.666901
+vel: 21.646225, -20.165554
+pos: 1611.244873, 1815.456543
+
+Active
+elapsedTime: 250.005005divided: 0.250005
+deltaTime: 16.667200
+vel: 21.463297, -19.995138
+pos: 1616.610840, 1810.457642
+
+Active
+elapsedTime: 266.672211divided: 0.266672
+deltaTime: 16.666901
+vel: 21.280373, -19.824726
+pos: 1622.285767, 1805.170898
+
+Active
+elapsedTime: 283.339111divided: 0.283339
+deltaTime: 16.667200
+vel: 21.097445, -19.654310
+pos: 1628.263550, 1799.602051
+
+Active
+elapsedTime: 300.006317divided: 0.300006
+deltaTime: 16.666800
+vel: 20.914520, -19.483900
+pos: 1634.538086, 1793.756714
+
+Active
+elapsedTime: 316.673126divided: 0.316673
+deltaTime: 16.667200
+vel: 20.731592, -19.313484
+pos: 1641.103271, 1787.640625
+
+Active
+elapsedTime: 333.340332divided: 0.333340
+deltaTime: 16.667400
+vel: 20.548662, -19.143066
+pos: 1647.953003, 1781.259521
+
+Active
+elapsedTime: 350.007721divided: 0.350008
+deltaTime: 16.667299
+vel: 20.365732, -18.972651
+pos: 1655.081177, 1774.618896
+
+Active
+elapsedTime: 366.675018divided: 0.366675
+deltaTime: 16.666700
+vel: 20.182810, -18.802240
+pos: 1662.481689, 1767.724609
+
+Active
+elapsedTime: 383.341705divided: 0.383342
+deltaTime: 16.667900
+vel: 19.999874, -18.631819
+pos: 1670.148438, 1760.582275
+
+Active
+elapsedTime: 400.009613divided: 0.400010
+deltaTime: 16.667101
+vel: 19.816948, -18.461405
+pos: 1678.075439, 1753.197510
+
+Active
+elapsedTime: 416.676727divided: 0.416677
+deltaTime: 16.666800
+vel: 19.634024, -18.290995
+pos: 1686.256470, 1745.576050
+
+Active
+elapsedTime: 433.343536divided: 0.433344
+deltaTime: 16.666800
+vel: 19.451099, -18.120584
+pos: 1694.685425, 1737.723633
+
+Active
+elapsedTime: 450.010345divided: 0.450010
+deltaTime: 16.667101
+vel: 19.268173, -17.950171
+pos: 1703.356323, 1729.645874
+
+Active
+elapsedTime: 466.677460divided: 0.466677
+deltaTime: 16.667200
+vel: 19.085245, -17.779755
+pos: 1712.262939, 1721.348511
+
+Active
+elapsedTime: 483.344666divided: 0.483345
+deltaTime: 16.666800
+vel: 18.902321, -17.609344
+pos: 1721.399292, 1712.837158
+
+Active
+elapsedTime: 500.011475divided: 0.500012
+deltaTime: 16.667299
+vel: 18.719391, -17.438929
+pos: 1730.759155, 1704.117554
+
+Active
+elapsedTime: 516.678772divided: 0.516679
+deltaTime: 16.666800
+vel: 18.536467, -17.268518
+pos: 1740.336548, 1695.195312
+
+Active
+elapsedTime: 533.345581divided: 0.533346
+deltaTime: 16.666700
+vel: 18.353544, -17.098108
+pos: 1750.125366, 1686.076172
+
+Active
+elapsedTime: 550.012268divided: 0.550012
+deltaTime: 16.667000
+vel: 18.170618, -16.927694
+pos: 1760.119385, 1676.765747
+
+Active
+elapsedTime: 566.679260divided: 0.566679
+deltaTime: 16.667299
+vel: 17.987688, -16.757278
+pos: 1770.312622, 1667.269775
+
+Active
+elapsedTime: 583.346558divided: 0.583347
+deltaTime: 16.667101
+vel: 17.804762, -16.586864
+pos: 1780.698975, 1657.593872
+
+Active
+elapsedTime: 600.013672divided: 0.600014
+deltaTime: 16.667400
+vel: 17.621832, -16.416447
+pos: 1791.272339, 1647.743774
+
+Active
+elapsedTime: 616.681091divided: 0.616681
+deltaTime: 16.666800
+vel: 17.438908, -16.246037
+pos: 1802.026611, 1637.725098
+
+Active
+elapsedTime: 633.347900divided: 0.633348
+deltaTime: 16.666800
+vel: 17.255983, -16.075624
+pos: 1812.955688, 1627.543579
+
+Active
+elapsedTime: 650.014709divided: 0.650015
+deltaTime: 16.667000
+vel: 17.073057, -15.905211
+pos: 1824.053467, 1617.204956
+
+Active
+elapsedTime: 666.681702divided: 0.666682
+deltaTime: 16.666901
+vel: 16.890133, -15.734799
+pos: 1835.313843, 1606.714844
+
+Active
+elapsedTime: 683.348633divided: 0.683349
+deltaTime: 16.666700
+vel: 16.707211, -15.564389
+pos: 1846.730713, 1596.078979
+
+Active
+elapsedTime: 700.015320divided: 0.700015
+deltaTime: 16.667000
+vel: 16.524284, -15.393976
+pos: 1858.297974, 1585.302979
+
+Active
+elapsedTime: 716.682312divided: 0.716682
+deltaTime: 16.667101
+vel: 16.341358, -15.223562
+pos: 1870.009521, 1574.392578
+
+Active
+elapsedTime: 733.349426divided: 0.733349
+deltaTime: 16.667101
+vel: 16.158432, -15.053148
+pos: 1881.859253, 1563.353394
+
+Active
+elapsedTime: 750.016541divided: 0.750017
+deltaTime: 16.667000
+vel: 15.975506, -14.882735
+pos: 1893.841187, 1552.191040
+
+Active
+elapsedTime: 766.683533divided: 0.766684
+deltaTime: 16.667299
+vel: 15.792577, -14.712319
+pos: 1905.949097, 1540.911377
+
+Active
+elapsedTime: 783.350830divided: 0.783351
+deltaTime: 16.666700
+vel: 15.609654, -14.541909
+pos: 1918.176880, 1529.520020
+
+Active
+elapsedTime: 800.017517divided: 0.800018
+deltaTime: 16.667400
+vel: 15.426724, -14.371492
+pos: 1930.518555, 1518.022583
+
+Active
+elapsedTime: 816.684937divided: 0.816685
+deltaTime: 16.667299
+vel: 15.243795, -14.201077
+pos: 1942.967896, 1506.424805
+
+Active
+elapsedTime: 833.352234divided: 0.833352
+deltaTime: 16.666901
+vel: 15.060871, -14.030664
+pos: 1955.518921, 1494.732300
+
+Active
+elapsedTime: 850.019165divided: 0.850019
+deltaTime: 16.667000
+vel: 14.877945, -13.860251
+pos: 1968.165405, 1482.950806
+
+Active
+elapsedTime: 866.686157divided: 0.866686
+deltaTime: 16.667000
+vel: 14.695019, -13.689838
+pos: 1980.901367, 1471.086060
+
+Active
+elapsedTime: 883.353149divided: 0.883353
+deltaTime: 16.667101
+vel: 14.512092, -13.519424
+pos: 1993.720703, 1459.143677
+
+Active
+elapsedTime: 900.020264divided: 0.900020
+deltaTime: 16.666901
+vel: 14.329167, -13.349012
+pos: 2006.617188, 1447.129272
+
+Active
+elapsedTime: 916.687134divided: 0.916687
+deltaTime: 16.667299
+vel: 14.146238, -13.178596
+pos: 2019.584839, 1435.048584
+
+Active
+elapsedTime: 933.354431divided: 0.933354
+deltaTime: 16.667400
+vel: 13.963308, -13.008180
+pos: 2032.617554, 1422.907349
+
+Active
+elapsedTime: 950.021851divided: 0.950022
+deltaTime: 16.666901
+vel: 13.780384, -12.837768
+pos: 2045.709229, 1410.711182
+
+Active
+elapsedTime: 966.688721divided: 0.966689
+deltaTime: 16.666800
+vel: -13.597461, -12.667356
+pos: 2017.564697, 1398.465820
+
+Active
+elapsedTime: 983.355530divided: 0.983356
+deltaTime: 16.666700
+vel: -13.414538, -12.496946
+pos: 2004.373413, 1386.176880
+
+Active
+elapsedTime: 1000.022217divided: 1.000022
+deltaTime: 16.666700
+vel: -13.231616, -12.326536
+pos: 1991.141479, 1373.850098
+
+Active
+elapsedTime: 1016.688904divided: 1.016689
+deltaTime: 16.667200
+vel: -13.048688, -12.156121
+pos: 1977.875000, 1361.491089
+
+Active
+elapsedTime: 1033.356079divided: 1.033356
+deltaTime: 16.667200
+vel: -12.865760, -11.985706
+pos: 1964.580078, 1349.105591
+
+Active
+elapsedTime: 1050.023315divided: 1.050023
+deltaTime: 16.667200
+vel: -12.682832, -11.815291
+pos: 1951.262817, 1336.699219
+
+Active
+elapsedTime: 1066.690552divided: 1.066691
+deltaTime: 16.667299
+vel: -12.499903, -11.644876
+pos: 1937.929321, 1324.277710
+
+Active
+elapsedTime: 1083.357910divided: 1.083358
+deltaTime: 16.667000
+vel: -12.316977, -11.474463
+pos: 1924.585571, 1311.846802
+
+Active
+elapsedTime: 1100.024902divided: 1.100025
+deltaTime: 16.666901
+vel: -12.134052, -11.304050
+pos: 1911.237793, 1299.412109
+
+Active
+elapsedTime: 1116.691772divided: 1.116692
+deltaTime: 16.667900
+vel: -11.951117, -11.133628
+pos: 1897.892090, 1286.979248
+
+Active
+elapsedTime: 1133.359619divided: 1.133360
+deltaTime: 16.667000
+vel: -11.768190, -10.963215
+pos: 1884.554443, 1274.553955
+
+Active
+elapsedTime: 1150.026611divided: 1.150027
+deltaTime: 16.667299
+vel: -11.585261, -10.792799
+pos: 1871.231079, 1262.141968
+
+Active
+elapsedTime: 1166.693970divided: 1.166694
+deltaTime: 16.666800
+vel: -11.402338, -10.622388
+pos: 1857.928101, 1249.748901
+
+Active
+elapsedTime: 1183.360718divided: 1.183361
+deltaTime: 16.667000
+vel: -11.219412, -10.451975
+pos: 1844.651489, 1237.380493
+
+Active
+elapsedTime: 1200.027710divided: 1.200028
+deltaTime: 16.666901
+vel: -11.036488, -10.281563
+pos: 1831.407349, 1225.042358
+
+Active
+elapsedTime: 1216.694580divided: 1.216695
+deltaTime: 16.666800
+vel: -10.853564, -10.111152
+pos: 1818.201904, 1212.740234
+
+Active
+elapsedTime: 1233.361328divided: 1.233361
+deltaTime: 16.667400
+vel: -10.670634, -9.940735
+pos: 1805.041138, 1200.479736
+
+Active
+elapsedTime: 1250.028687divided: 1.250029
+deltaTime: 16.666700
+vel: -10.487712, -9.770325
+pos: 1791.931152, 1188.266602
+
+Active
+elapsedTime: 1266.695435divided: 1.266695
+deltaTime: 16.666700
+vel: -10.304790, -9.599915
+pos: 1778.878174, 1176.106445
+
+Active
+elapsedTime: 1283.362183divided: 1.283362
+deltaTime: 16.667299
+vel: -10.121861, -9.429499
+pos: 1765.888184, 1164.005005
+
+Active
+elapsedTime: 1300.029541divided: 1.300030
+deltaTime: 16.666800
+vel: -9.938937, -9.259088
+pos: 1752.967285, 1151.967896
+
+Active
+elapsedTime: 1316.696289divided: 1.316696
+deltaTime: 16.667000
+vel: -9.756011, -9.088675
+pos: 1740.121582, 1140.000854
+
+Active
+elapsedTime: 1333.363281divided: 1.333363
+deltaTime: 16.666901
+vel: -9.573087, -8.918262
+pos: 1727.357178, 1128.109619
+
+Active
+elapsedTime: 1350.030151divided: 1.350030
+deltaTime: 16.667000
+vel: -9.390161, -8.747849
+pos: 1714.680176, 1116.299805
+
+Active
+elapsedTime: 1366.697144divided: 1.366697
+deltaTime: 16.666800
+vel: -9.207237, -8.577438
+pos: 1702.096680, 1104.577026
+
+Active
+elapsedTime: 1383.363892divided: 1.383364
+deltaTime: 16.667000
+vel: -9.024311, -8.407025
+pos: 1689.612793, 1092.947021
+
+Active
+elapsedTime: 1400.030884divided: 1.400031
+deltaTime: 16.666800
+vel: -8.841388, -8.236614
+pos: 1677.234619, 1081.415527
+
+Active
+elapsedTime: 1416.697632divided: 1.416698
+deltaTime: 16.666800
+vel: -8.658464, -8.066203
+pos: 1664.968140, 1069.988159
+
+Active
+elapsedTime: 1433.364380divided: 1.433364
+deltaTime: 16.667299
+vel: -8.475535, -7.895787
+pos: 1652.819580, 1058.670654
+
+Active
+elapsedTime: 1450.031738divided: 1.450032
+deltaTime: 16.667000
+vel: -8.292609, -7.725374
+pos: 1640.795044, 1047.468628
+
+Active
+elapsedTime: 1466.698730divided: 1.466699
+deltaTime: 16.667000
+vel: -8.109683, -7.554961
+pos: 1628.900635, 1036.387817
+
+Active
+elapsedTime: 1483.365723divided: 1.483366
+deltaTime: 16.667200
+vel: -7.926755, 7.384545
+pos: 1617.142334, 1062.341797
+
+Active
+elapsedTime: 1500.032959divided: 1.500033
+deltaTime: 16.666700
+vel: -7.743833, 7.214135
+pos: 1605.526367, 1073.163208
+
+Active
+elapsedTime: 1516.699707divided: 1.516700
+deltaTime: 16.667299
+vel: -7.560904, 7.043719
+pos: 1594.058716, 1083.846436
+
+Active
+elapsedTime: 1533.367065divided: 1.533367
+deltaTime: 16.666800
+vel: -7.377980, 6.873308
+pos: 1582.745605, 1094.385742
+
+Active
+elapsedTime: 1550.033813divided: 1.550034
+deltaTime: 16.667101
+vel: -7.195053, 6.702893
+pos: 1571.593018, 1104.775513
+
+Active
+elapsedTime: 1566.700928divided: 1.566701
+deltaTime: 16.667200
+vel: -7.012125, 6.532478
+pos: 1560.607056, 1115.010010
+
+Active
+elapsedTime: 1583.368164divided: 1.583368
+deltaTime: 16.666901
+vel: -6.829200, 6.362066
+pos: 1549.793945, 1125.083496
+
+Active
+elapsedTime: 1600.035034divided: 1.600035
+deltaTime: 16.667299
+vel: -6.646271, 6.191649
+pos: 1539.159668, 1134.990356
+
+Active
+elapsedTime: 1616.702393divided: 1.616702
+deltaTime: 16.667101
+vel: -6.463345, 6.021235
+pos: 1528.710327, 1144.724854
+
+Active
+elapsedTime: 1633.369507divided: 1.633370
+deltaTime: 16.666800
+vel: -6.280421, 5.850824
+pos: 1518.452026, 1154.281372
+
+Active
+elapsedTime: 1650.036255divided: 1.650036
+deltaTime: 16.667299
+vel: -6.097492, 5.680408
+pos: 1508.390991, 1163.654297
+
+Active
+elapsedTime: 1666.703613divided: 1.666704
+deltaTime: 16.667299
+vel: -5.914563, 5.509991
+pos: 1498.533203, 1172.837769
+
+Active
+elapsedTime: 1683.370972divided: 1.683371
+deltaTime: 16.669901
+vel: -5.731605, 5.339548
+pos: 1488.884766, 1181.826172
+
+Active
+elapsedTime: 1700.040894divided: 1.700041
+deltaTime: 16.667299
+vel: -5.548676, 5.169132
+pos: 1479.451782, 1190.613892
+
+Active
+elapsedTime: 1716.708252divided: 1.716708
+deltaTime: 16.666700
+vel: -5.365754, 4.998722
+pos: 1470.240356, 1199.195190
+
+Active
+elapsedTime: 1733.375000divided: 1.733375
+deltaTime: 16.667000
+vel: -5.182828, 4.828309
+pos: 1461.256592, 1207.564453
+
+Active
+elapsedTime: 1750.041992divided: 1.750042
+deltaTime: 16.667200
+vel: -4.999900, 4.657893
+pos: 1452.506592, 1215.715942
+
+Active
+elapsedTime: 1766.709229divided: 1.766709
+deltaTime: 16.667101
+vel: -4.816973, 4.487479
+pos: 1443.996460, 1223.644043
+
+Active
+elapsedTime: 1783.376343divided: 1.783376
+deltaTime: 16.667000
+vel: -4.634047, 4.317066
+pos: 1435.732178, 1231.343018
+
+Active
+elapsedTime: 1800.043335divided: 1.800043
+deltaTime: 16.667101
+vel: -4.451120, 4.146652
+pos: 1427.719971, 1238.807129
+
+Active
+elapsedTime: 1816.710449divided: 1.816710
+deltaTime: 16.666800
+vel: -4.268196, 3.976241
+pos: 1419.965942, 1246.030762
+
+Active
+elapsedTime: 1833.377197divided: 1.833377
+deltaTime: 16.666800
+vel: -4.085272, 3.805830
+pos: 1412.476074, 1253.008301
+
+Active
+elapsedTime: 1850.043945divided: 1.850044
+deltaTime: 16.666700
+vel: -3.902350, 3.635420
+pos: 1405.256592, 1259.734009
+
+Active
+elapsedTime: 1866.710693divided: 1.866711
+deltaTime: 16.667299
+vel: -3.719421, 3.465003
+pos: 1398.313477, 1266.202148
+
+Active
+elapsedTime: 1883.378052divided: 1.883378
+deltaTime: 16.667400
+vel: -3.536491, -3.294586
+pos: 1391.652954, 1244.997192
+
+Active
+elapsedTime: 1900.045410divided: 1.900045
+deltaTime: 16.667299
+vel: -3.353562, -3.124170
+pos: 1385.281006, 1239.061157
+
+Active
+elapsedTime: 1916.712769divided: 1.916713
+deltaTime: 16.667299
+vel: -3.170633, -2.953753
+pos: 1379.203857, 1233.399658
+
+Active
+elapsedTime: 1933.380127divided: 1.933380
+deltaTime: 16.667101
+vel: -2.987706, -2.783339
+pos: 1373.427490, 1228.018433
+
+Active
+elapsedTime: 1950.047241divided: 1.950047
+deltaTime: 16.666901
+vel: -2.804781, -2.612927
+pos: 1367.958008, 1222.923096
+
+Active
+elapsedTime: 1966.714111divided: 1.966714
+deltaTime: 16.667299
+vel: -2.621852, -2.442511
+pos: 1362.801514, 1218.119385
+
+Active
+elapsedTime: 1983.381470divided: 1.983382
+deltaTime: 16.667200
+vel: -2.438924, -2.272095
+pos: 1357.964233, 1213.612915
+
+Active
+elapsedTime: 2000.048706divided: 2.000049
+deltaTime: 16.666901
+vel: -2.255999, -2.101683
+pos: 1353.452148, 1209.409424
+
+Active
+elapsedTime: 2016.715576divided: 2.016716
+deltaTime: 16.667200
+vel: -2.073071, -1.931268
+pos: 1349.271362, 1205.514648
+
+Active
+elapsedTime: 2033.382812divided: 2.033383
+deltaTime: 16.666700
+vel: -1.890149, -1.760858
+pos: 1345.427979, 1201.934204
+
+Active
+elapsedTime: 2050.049561divided: 2.050050
+deltaTime: 16.666700
+vel: -1.707226, -1.590448
+pos: 1341.928101, 1198.673706
+
+Active
+elapsedTime: 2066.716309divided: 2.066716
+deltaTime: 16.667200
+vel: -1.524298, -1.420032
+pos: 1338.777832, 1195.738892
+
+Active
+elapsedTime: 2083.383545divided: 2.083384
+deltaTime: 16.666901
+vel: -1.341373, -1.249620
+pos: 1335.983276, 1193.135498
+
+Active
+elapsedTime: 0.000000divided: 0.000000
+deltaTime: 16.667000
+vel: 2.815214, -23.191936
+pos: 1335.983276, 1193.135498
+
+Active
+elapsedTime: 16.667000divided: 0.016667
+deltaTime: 16.666800
+vel: 2.785088, -22.943756
+pos: 1336.029663, 1192.753052
+
+Active
+elapsedTime: 33.333801divided: 0.033334
+deltaTime: 16.667500
+vel: 2.754961, -22.695566
+pos: 1336.121460, 1191.996582
+
+Active
+elapsedTime: 50.001301divided: 0.050001
+deltaTime: 16.667200
+vel: 2.724834, -22.447380
+pos: 1336.257690, 1190.874146
+
+Active
+elapsedTime: 66.668503divided: 0.066669
+deltaTime: 16.667000
+vel: 2.694707, -22.199198
+pos: 1336.437378, 1189.394165
+
+Active
+elapsedTime: 83.335503divided: 0.083336
+deltaTime: 16.666800
+vel: 2.664581, -21.951017
+pos: 1336.659424, 1187.564819
+
+Active
+elapsedTime: 100.002304divided: 0.100002
+deltaTime: 16.666700
+vel: 2.634455, -21.702839
+pos: 1336.922852, 1185.394531
+
+Active
+elapsedTime: 116.669006divided: 0.116669
+deltaTime: 16.666700
+vel: 2.604330, -21.454660
+pos: 1337.226685, 1182.891479
+
+Active
+elapsedTime: 133.335709divided: 0.133336
+deltaTime: 16.667000
+vel: 2.574203, -21.206478
+pos: 1337.569946, 1180.063843
+
+Active
+elapsedTime: 150.002716divided: 0.150003
+deltaTime: 16.666700
+vel: 2.544077, -20.958300
+pos: 1337.951538, 1176.920044
+
+Active
+elapsedTime: 166.669418divided: 0.166669
+deltaTime: 16.667200
+vel: 2.513951, -20.710114
+pos: 1338.370483, 1173.468262
+
+Active
+elapsedTime: 183.336624divided: 0.183337
+deltaTime: 16.667400
+vel: 2.483824, -20.461924
+pos: 1338.825806, 1169.716797
+
+Active
+elapsedTime: 200.004028divided: 0.200004
+deltaTime: 16.666700
+vel: 2.453698, -20.213745
+pos: 1339.316528, 1165.673950
+
+Active
+elapsedTime: 216.670731divided: 0.216671
+deltaTime: 16.667000
+vel: 2.423571, -19.965563
+pos: 1339.841675, 1161.348022
+
+Active
+elapsedTime: 233.337738divided: 0.233338
+deltaTime: 16.666901
+vel: 2.393445, -19.717381
+pos: 1340.400146, 1156.747192
+
+Active
+elapsedTime: 250.004639divided: 0.250005
+deltaTime: 16.666700
+vel: 2.363319, -19.469202
+pos: 1340.990967, 1151.879761
+
+Active
+elapsedTime: 266.671326divided: 0.266671
+deltaTime: 16.666901
+vel: 2.333193, -19.221020
+pos: 1341.613159, 1146.754028
+
+Active
+elapsedTime: 283.338226divided: 0.283338
+deltaTime: 16.666901
+vel: 2.303067, -18.972837
+pos: 1342.265747, 1141.378296
+
+Active
+elapsedTime: 300.005127divided: 0.300005
+deltaTime: 16.667000
+vel: 2.272941, -18.724655
+pos: 1342.947632, 1135.760742
+
+Active
+elapsedTime: 316.672119divided: 0.316672
+deltaTime: 16.667101
+vel: 2.242814, -18.476471
+pos: 1343.657837, 1129.909790
+
+Active
+elapsedTime: 333.339233divided: 0.333339
+deltaTime: 16.666800
+vel: 2.212688, -18.228291
+pos: 1344.395386, 1123.833618
+
+Active
+elapsedTime: 350.006042divided: 0.350006
+deltaTime: 16.667299
+vel: 2.182561, -17.980103
+pos: 1345.159302, 1117.540527
+
+Active
+elapsedTime: 366.673340divided: 0.366673
+deltaTime: 16.667101
+vel: 2.152435, -17.731918
+pos: 1345.948486, 1111.038696
+
+Active
+elapsedTime: 383.340454divided: 0.383340
+deltaTime: 16.667299
+vel: 2.122308, -17.483730
+pos: 1346.762085, 1104.336426
+
+Active
+elapsedTime: 400.007751divided: 0.400008
+deltaTime: 16.667101
+vel: 2.092181, -17.235546
+pos: 1347.598999, 1097.442017
+
+Active
+elapsedTime: 416.674866divided: 0.416675
+deltaTime: 16.667000
+vel: 2.062055, -16.987364
+pos: 1348.458252, 1090.363770
+
+Active
+elapsedTime: 433.341858divided: 0.433342
+deltaTime: 16.667000
+vel: 2.031929, -16.739182
+pos: 1349.338745, 1083.109985
+
+Active
+elapsedTime: 450.008850divided: 0.450009
+deltaTime: 16.666901
+vel: 2.001803, -16.490999
+pos: 1350.239624, 1075.688843
+
+Active
+elapsedTime: 466.675751divided: 0.466676
+deltaTime: 16.667200
+vel: 1.971676, -16.242813
+pos: 1351.159790, 1068.108765
+
+Active
+elapsedTime: 483.342957divided: 0.483343
+deltaTime: 16.666800
+vel: 1.941550, -15.994633
+pos: 1352.098267, 1060.377930
+
+Active
+elapsedTime: 500.009766divided: 0.500010
+deltaTime: 16.667200
+vel: 1.911423, -15.746447
+pos: 1353.053955, 1052.504517
+
+Active
+elapsedTime: 516.676941divided: 0.516677
+deltaTime: 16.666800
+vel: 1.881297, -15.498266
+pos: 1354.026001, 1044.496948
+
+Active
+elapsedTime: 533.343750divided: 0.533344
+deltaTime: 16.667000
+vel: 1.851171, -15.250083
+pos: 1355.013306, 1036.363403
+
+Active
+elapsedTime: 550.010742divided: 0.550011
+deltaTime: 16.666901
+vel: 1.821045, -15.001902
+pos: 1356.014893, 1028.112183
+
+Active
+elapsedTime: 566.677612divided: 0.566678
+deltaTime: 16.666700
+vel: 1.790919, -14.753723
+pos: 1357.029785, 1019.751587
+
+Active
+elapsedTime: 583.344299divided: 0.583344
+deltaTime: 16.667299
+vel: 1.760792, -14.505535
+pos: 1358.056885, 1011.289856
+
+Active
+elapsedTime: 600.011597divided: 0.600012
+deltaTime: 16.666800
+vel: 1.730666, -14.257355
+pos: 1359.095337, 1002.735291
+
+Active
+elapsedTime: 616.678406divided: 0.616678
+deltaTime: 16.666700
+vel: 1.700540, -14.009176
+pos: 1360.144043, 994.096130
+
+Active
+elapsedTime: 633.345093divided: 0.633345
+deltaTime: 16.666700
+vel: 1.670414, -13.760998
+pos: 1361.202026, 985.380676
+
+Active
+elapsedTime: 650.011780divided: 0.650012
+deltaTime: 16.666901
+vel: 1.640288, -13.512816
+pos: 1362.268188, 976.597168
+
+Active
+elapsedTime: 666.678711divided: 0.666679
+deltaTime: 16.666901
+vel: 1.610162, -13.264635
+pos: 1363.341675, 967.753906
+
+Active
+elapsedTime: 683.345581divided: 0.683346
+deltaTime: 16.667000
+vel: 1.580036, -13.016452
+pos: 1364.421387, 958.859192
+
+Active
+elapsedTime: 700.012573divided: 0.700013
+deltaTime: 16.666700
+vel: 1.549910, -12.768273
+pos: 1365.506348, 949.921265
+
+Active
+elapsedTime: 716.679260divided: 0.716679
+deltaTime: 16.667400
+vel: 1.519783, -12.520084
+pos: 1366.595581, 940.948364
+
+Active
+elapsedTime: 733.346680divided: 0.733347
+deltaTime: 16.666901
+vel: 1.489656, -12.271903
+pos: 1367.687988, 931.948792
+
+Active
+elapsedTime: 750.013550divided: 0.750014
+deltaTime: 16.666700
+vel: 1.459531, -12.023725
+pos: 1368.782715, 922.930847
+
+Active
+elapsedTime: 766.680237divided: 0.766680
+deltaTime: 16.667299
+vel: 1.429404, -11.775537
+pos: 1369.878662, 913.902771
+
+Active
+elapsedTime: 783.347534divided: 0.783348
+deltaTime: 16.667101
+vel: 1.399277, -11.527351
+pos: 1370.974731, 904.872864
+
+Active
+elapsedTime: 800.014648divided: 0.800015
+deltaTime: 16.666901
+vel: 1.369151, -11.279170
+pos: 1372.070068, 895.849365
+
+Active
+elapsedTime: 816.681519divided: 0.816682
+deltaTime: 16.667000
+vel: 1.339025, -11.030987
+pos: 1373.163574, 886.840576
+
+Active
+elapsedTime: 833.348511divided: 0.833349
+deltaTime: 16.667400
+vel: 1.308897, -10.782798
+pos: 1374.254395, 877.854736
+
+Active
+elapsedTime: 850.015930divided: 0.850016
+deltaTime: 16.667000
+vel: 1.278771, -10.534615
+pos: 1375.341431, 868.900146
+
+Active
+elapsedTime: 866.682922divided: 0.866683
+deltaTime: 16.666901
+vel: 1.248645, -10.286433
+pos: 1376.423584, 859.985046
+
+Active
+elapsedTime: 883.349854divided: 0.883350
+deltaTime: 16.666901
+vel: 1.218519, -10.038252
+pos: 1377.500000, 851.117737
+
+Active
+elapsedTime: 900.016724divided: 0.900017
+deltaTime: 16.667101
+vel: 1.188392, -9.790067
+pos: 1378.569580, 842.306519
+
+Active
+elapsedTime: 916.683838divided: 0.916684
+deltaTime: 16.666700
+vel: 1.158266, -9.541888
+pos: 1379.631348, 833.559631
+
+Active
+elapsedTime: 933.350525divided: 0.933351
+deltaTime: 16.667000
+vel: 1.128140, -9.293705
+pos: 1380.684326, 824.885376
+
+Active
+elapsedTime: 950.017517divided: 0.950018
+deltaTime: 16.666700
+vel: 1.098014, -9.045527
+pos: 1381.727417, 816.291992
+
+Active
+elapsedTime: 966.684204divided: 0.966684
+deltaTime: 16.666901
+vel: 1.067888, -8.797345
+pos: 1382.759766, 807.787720
+
+Active
+elapsedTime: 983.351074divided: 0.983351
+deltaTime: 16.667101
+vel: 1.037761, -8.549160
+pos: 1383.780273, 799.380920
+
+Active
+elapsedTime: 1000.018188divided: 1.000018
+deltaTime: 16.666700
+vel: 1.007635, -8.300982
+pos: 1384.787964, 791.079773
+
+Active
+elapsedTime: 1016.684875divided: 1.016685
+deltaTime: 16.667299
+vel: 0.977509, -8.052794
+pos: 1385.781738, 782.892639
+
+Active
+elapsedTime: 1033.352173divided: 1.033352
+deltaTime: 16.666700
+vel: 0.947383, -7.804615
+pos: 1386.760742, 774.827698
+
+Active
+elapsedTime: 1050.018921divided: 1.050019
+deltaTime: 16.666700
+vel: 0.917257, -7.556436
+pos: 1387.723877, 766.893311
+
+Active
+elapsedTime: 1066.685669divided: 1.066686
+deltaTime: 16.666901
+vel: 0.887131, -7.308254
+pos: 1388.670166, 759.097717
+
+Active
+elapsedTime: 1083.352539divided: 1.083353
+deltaTime: 16.667200
+vel: 0.857004, -7.060068
+pos: 1389.598633, 751.449158
+
+Active
+elapsedTime: 1100.019775divided: 1.100020
+deltaTime: 16.666800
+vel: 0.826878, -6.811887
+pos: 1390.508179, 743.955933
+
+Active
+elapsedTime: 1116.686523divided: 1.116687
+deltaTime: 16.666800
+vel: 0.796752, -6.563707
+pos: 1391.397949, 736.626343
+
+Active
+elapsedTime: 1133.353271divided: 1.133353
+deltaTime: 16.666901
+vel: 0.766626, -6.315525
+pos: 1392.266846, 729.468628
+
+Active
+elapsedTime: 1150.020142divided: 1.150020
+deltaTime: 16.667400
+vel: 0.736499, -6.067336
+pos: 1393.113892, 722.491089
+
+Active
+elapsedTime: 1166.687500divided: 1.166687
+deltaTime: 16.667101
+vel: 0.706372, -5.819151
+pos: 1393.937988, 715.701965
+
+Active
+elapsedTime: 1183.354614divided: 1.183355
+deltaTime: 16.667500
+vel: 0.676245, -5.570961
+pos: 1394.738281, 709.109558
+
+Active
+elapsedTime: 1200.022095divided: 1.200022
+deltaTime: 16.667101
+vel: 0.646119, -5.322776
+pos: 1395.513672, 702.722107
+
+Active
+elapsedTime: 1216.689209divided: 1.216689
+deltaTime: 16.667200
+vel: 0.615992, -5.074590
+pos: 1396.263184, 696.547913
+
+Active
+elapsedTime: 1233.356445divided: 1.233356
+deltaTime: 16.667000
+vel: 0.585866, -4.826407
+pos: 1396.985718, 690.595215
+
+Active
+elapsedTime: 1250.023438divided: 1.250023
+deltaTime: 16.666901
+vel: 0.555740, -4.578225
+pos: 1397.680420, 684.872314
+
+Active
+elapsedTime: 1266.690308divided: 1.266690
+deltaTime: 16.667000
+vel: 0.525613, -4.330042
+pos: 1398.346191, 679.387512
+
+Active
+elapsedTime: 1283.357300divided: 1.283357
+deltaTime: 16.666700
+vel: 0.495487, -4.081863
+pos: 1398.982056, 674.149048
+
+Active
+elapsedTime: 1300.024048divided: 1.300024
+deltaTime: 16.667200
+vel: 0.465361, -3.833677
+pos: 1399.587036, 669.165161
+
+Active
+elapsedTime: 1316.691284divided: 1.316691
+deltaTime: 16.666901
+vel: 0.435235, -3.585495
+pos: 1400.160156, 664.444153
+
+Active
+elapsedTime: 1333.358154divided: 1.333358
+deltaTime: 16.666800
+vel: 0.405109, -3.337315
+pos: 1400.700317, 659.994324
+
+Active
+elapsedTime: 1350.024902divided: 1.350025
+deltaTime: 16.667000
+vel: 0.374982, -3.089132
+pos: 1401.206543, 655.823914
+
+Active
+elapsedTime: 1366.691895divided: 1.366692
+deltaTime: 16.667200
+vel: 0.344855, -2.840945
+pos: 1401.677856, 651.941223
+
+Active
+elapsedTime: 1383.359131divided: 1.383359
+deltaTime: 16.667101
+vel: 0.314729, -2.592761
+pos: 1402.113281, 648.354492
+
+Active
+elapsedTime: 1400.026245divided: 1.400026
+deltaTime: 16.667200
+vel: 0.284602, -2.344575
+pos: 1402.511719, 645.072021
+
+Active
+elapsedTime: 1416.693481divided: 1.416693
+deltaTime: 16.666800
+vel: 0.254476, -2.096395
+pos: 1402.872192, 642.102051
+
+Active
+elapsedTime: 1433.360229divided: 1.433360
+deltaTime: 16.667400
+vel: 0.224349, -1.848205
+pos: 1403.193726, 639.452881
+
+Active
+elapsedTime: 1450.027588divided: 1.450028
+deltaTime: 16.667200
+vel: 0.194222, -1.600019
+pos: 1403.475342, 637.132812
+
+Active
+elapsedTime: 1466.694824divided: 1.466695
+deltaTime: 16.667200
+vel: 0.164096, -1.351833
+pos: 1403.716064, 635.150085
+
+Active
+elapsedTime: 0.000000divided: 0.000000
+deltaTime: 16.667200
+vel: 18.923357, -17.628937
+pos: 1403.716064, 635.150085
+
+Active
+elapsedTime: 16.667200divided: 0.016667
+deltaTime: 16.666901
+vel: 18.740433, -17.458525
+pos: 1404.028442, 634.859131
+
+Active
+elapsedTime: 33.334099divided: 0.033334
+deltaTime: 16.667000
+vel: 18.557507, -17.288111
+pos: 1404.647095, 634.282837
+
+Active
+elapsedTime: 50.001099divided: 0.050001
+deltaTime: 16.667000
+vel: 18.374580, -17.117697
+pos: 1405.565796, 633.426941
+
+Active
+elapsedTime: 66.668098divided: 0.066668
+deltaTime: 16.667101
+vel: 18.191654, -16.947283
+pos: 1406.778564, 632.297119
+
+Active
+elapsedTime: 83.335197divided: 0.083335
+deltaTime: 16.667101
+vel: 18.008728, -16.776869
+pos: 1408.279297, 630.898987
+
+Active
+elapsedTime: 100.002296divided: 0.100002
+deltaTime: 16.667000
+vel: 17.825802, -16.606455
+pos: 1410.061890, 629.238281
+
+Active
+elapsedTime: 116.669296divided: 0.116669
+deltaTime: 16.667101
+vel: 17.642876, -16.436041
+pos: 1412.120239, 627.320679
+
+Active
+elapsedTime: 133.336395divided: 0.133336
+deltaTime: 16.666800
+vel: 17.459951, -16.265631
+pos: 1414.448242, 625.151855
+
+Active
+elapsedTime: 150.003189divided: 0.150003
+deltaTime: 16.667299
+vel: 17.277021, -16.095215
+pos: 1417.039795, 622.737549
+
+Active
+elapsedTime: 166.670486divided: 0.166670
+deltaTime: 16.666800
+vel: 17.094097, -15.924804
+pos: 1419.888916, 620.083374
+
+Active
+elapsedTime: 183.337280divided: 0.183337
+deltaTime: 16.667299
+vel: 16.911167, -15.754388
+pos: 1422.989380, 617.195007
+
+Active
+elapsedTime: 200.004578divided: 0.200005
+deltaTime: 16.666901
+vel: 16.728243, -15.583976
+pos: 1426.335083, 614.078125
+
+Active
+elapsedTime: 216.671478divided: 0.216671
+deltaTime: 16.667000
+vel: 16.545317, -15.413563
+pos: 1429.919922, 610.738464
+
+Active
+elapsedTime: 233.338470divided: 0.233338
+deltaTime: 16.667601
+vel: 16.362385, -15.243143
+pos: 1433.737915, 607.181641
+
+Active
+elapsedTime: 250.006073divided: 0.250006
+deltaTime: 16.667299
+vel: 16.179455, -15.072727
+pos: 1437.782837, 603.413391
+
+Active
+elapsedTime: 266.673370divided: 0.266673
+deltaTime: 16.666800
+vel: 15.996531, -14.902316
+pos: 1442.048706, 599.439331
+
+Active
+elapsedTime: 283.340179divided: 0.283340
+deltaTime: 16.667400
+vel: 15.813601, -14.731899
+pos: 1446.529297, 595.265198
+
+Active
+elapsedTime: 300.007568divided: 0.300008
+deltaTime: 16.666700
+vel: 15.630679, -14.561489
+pos: 1451.218628, 590.896667
+
+Active
+elapsedTime: 316.674255divided: 0.316674
+deltaTime: 16.666700
+vel: 15.447757, -14.391079
+pos: 1456.110596, 586.339355
+
+Active
+elapsedTime: 333.340942divided: 0.333341
+deltaTime: 16.667200
+vel: 15.264829, -14.220664
+pos: 1461.198975, 581.598999
+
+Active
+elapsedTime: 350.008148divided: 0.350008
+deltaTime: 16.666901
+vel: 15.081903, -14.050252
+pos: 1466.477783, 576.681274
+
+Active
+elapsedTime: 366.675049divided: 0.366675
+deltaTime: 16.666901
+vel: 14.898978, -13.879840
+pos: 1471.940918, 571.591858
+
+Active
+elapsedTime: 383.341949divided: 0.383342
+deltaTime: 16.667299
+vel: 14.716049, -13.709424
+pos: 1477.582153, 566.336487
+
+Active
+elapsedTime: 400.009247divided: 0.400009
+deltaTime: 16.667299
+vel: 14.533120, -13.539008
+pos: 1483.395508, 560.920776
+
+Active
+elapsedTime: 416.676544divided: 0.416677
+deltaTime: 16.667101
+vel: 14.350193, -13.368594
+pos: 1489.374878, 555.350403
+
+Active
+elapsedTime: 433.343658divided: 0.433344
+deltaTime: 16.666700
+vel: 14.167271, -13.198184
+pos: 1495.514160, 549.631042
+
+Active
+elapsedTime: 450.010345divided: 0.450010
+deltaTime: 16.666700
+vel: 13.984348, -13.027774
+pos: 1501.807251, 543.768433
+
+Active
+elapsedTime: 466.677032divided: 0.466677
+deltaTime: 16.667299
+vel: 13.801419, -12.857358
+pos: 1508.248047, 537.768188
+
+Active
+elapsedTime: 483.344330divided: 0.483344
+deltaTime: 16.667299
+vel: 13.618490, -12.686942
+pos: 1514.830444, 531.636047
+
+Active
+elapsedTime: 500.011627divided: 0.500012
+deltaTime: 16.667000
+vel: 13.435564, -12.516529
+pos: 1521.548340, 525.377625
+

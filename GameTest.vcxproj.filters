@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="GameTest.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="App\app.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="App\main.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="App\SimpleController.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="App\SimpleSound.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="App\SimpleSprite.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image\stb_image.cpp">
+      <Filter>API\third_party\stb_image</Filter>
+    </ClCompile>
+    <ClCompile Include="miniaudio\miniaudio.cpp">
+      <Filter>API\third_party\miniaudio</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState.cpp">
+      <Filter>API\MY_CODE\STATES</Filter>
+    </ClCompile>
+    <ClCompile Include="HomeState.cpp">
+      <Filter>API\MY_CODE\STATES</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelState.cpp">
+      <Filter>API\MY_CODE\STATES</Filter>
+    </ClCompile>
+    <ClCompile Include="GameStateManager.cpp">
+      <Filter>API\MY_CODE\STATES</Filter>
+    </ClCompile>
+    <ClCompile Include="JSONHandler.cpp">
+      <Filter>API\MY_CODE\MISC</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>API\MY_CODE\MISC</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>API\MY_CODE\MISC</Filter>
+    </ClCompile>
+    <ClCompile Include="Ball.cpp">
+      <Filter>API\MY_CODE\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="TilePhysics.cpp">
+      <Filter>API\MY_CODE\MISC</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniMap.cpp">
+      <Filter>API\MY_CODE\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="Hole.cpp">
+      <Filter>API\MY_CODE\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="DirGuide.cpp">
+      <Filter>API\MY_CODE\ENTITIES</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerBar.cpp">
+      <Filter>API\MY_CODE\ENTITIES</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="App\app.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="App\AppSettings.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="App\main.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="App\SimpleController.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="App\SimpleSound.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="App\SimpleSprite.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image\stb_image.h">
+      <Filter>API\third_party\stb_image</Filter>
+    </ClInclude>
+    <ClInclude Include="miniaudio\miniaudio.h">
+      <Filter>API\third_party\miniaudio</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>API\MY_CODE\STATES</Filter>
+    </ClInclude>
+    <ClInclude Include="HomeState.h">
+      <Filter>API\MY_CODE\STATES</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelState.h">
+      <Filter>API\MY_CODE\STATES</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStateManager.h">
+      <Filter>API\MY_CODE\STATES</Filter>
+    </ClInclude>
+    <ClInclude Include="JSONHandler.h">
+      <Filter>API\MY_CODE\MISC</Filter>
+    </ClInclude>
+    <ClInclude Include="Structs.h">
+      <Filter>API\MY_CODE\MISC</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>API\MY_CODE\MISC</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>API\MY_CODE\MISC</Filter>
+    </ClInclude>
+    <ClInclude Include="Ball.h">
+      <Filter>API\MY_CODE\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniMap.h">
+      <Filter>API\MY_CODE\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="Hole.h">
+      <Filter>API\MY_CODE\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="DirGuide.h">
+      <Filter>API\MY_CODE\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerBar.h">
+      <Filter>API\MY_CODE\ENTITIES</Filter>
+    </ClInclude>
+    <ClInclude Include="TilePhysics.h">
+      <Filter>API\MY_CODE\MISC</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="API">
+      <UniqueIdentifier>{f318918d-bb9f-4402-ae1c-4f72186d16f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\third_party">
+      <UniqueIdentifier>{27bd8d9d-bd08-4004-9045-4e86e26c901f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\third_party\miniaudio">
+      <UniqueIdentifier>{957ea575-fd4f-4ede-b4f9-66b4022639a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\third_party\stb_image">
+      <UniqueIdentifier>{61cfc19b-c57e-4021-b530-bac172fcba86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\MY_CODE">
+      <UniqueIdentifier>{8c1fffe3-eb3a-4c8a-8438-33e31aa03d6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\MY_CODE\STATES">
+      <UniqueIdentifier>{4cdbdfd7-28b6-45f5-8fea-f7f3cdb14a3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\MY_CODE\ENTITIES">
+      <UniqueIdentifier>{75fef3d9-636d-4a8a-bd3c-4a56a12cef45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\MY_CODE\MISC">
+      <UniqueIdentifier>{dc291c8a-770b-497b-bfbb-459dee8512a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\MY_CODE\LOGS">
+      <UniqueIdentifier>{cb591c02-e0b6-490b-a2b3-0d62311528b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\MY_CODE\COMMANDS">
+      <UniqueIdentifier>{f06d33ee-13c3-4b93-9a4a-adce6e367fe1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>API</Filter>
+    </Text>
+    <Text Include="logload.txt">
+      <Filter>API</Filter>
+    </Text>
+    <Text Include="log.txt">
+      <Filter>API\MY_CODE\LOGS</Filter>
+    </Text>
+    <Text Include="logcam.txt">
+      <Filter>API\MY_CODE\LOGS</Filter>
+    </Text>
+    <Text Include="loginner.txt">
+      <Filter>API\MY_CODE\LOGS</Filter>
+    </Text>
+    <Text Include="loglevel.txt">
+      <Filter>API\MY_CODE\LOGS</Filter>
+    </Text>
+    <Text Include="logball.txt">
+      <Filter>API\MY_CODE\LOGS</Filter>
+    </Text>
+    <Text Include="logpwr.txt">
+      <Filter>API\MY_CODE\LOGS</Filter>
+    </Text>
+    <Text Include="logLevelState.txt">
+      <Filter>API\MY_CODE\LOGS</Filter>
+    </Text>
+    <Text Include="logTP.txt">
+      <Filter>API\MY_CODE\LOGS</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

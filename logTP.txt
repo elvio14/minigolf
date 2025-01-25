@@ -1,0 +1,1 @@
+mag: 16.529718 | angle: 0.000000 | virtualAngle: -1.570796 | vel before: -0.000001,16.529718 | newAngle: 1.570796 | newVel: -0.000001,16.529718

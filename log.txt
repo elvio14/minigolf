@@ -1,0 +1,23 @@
+{
+    "mapWidth":9,
+    "mapHeight":9,
+    "tileWidth":256.0,
+    "tileHeight":256.0,
+    "ballX": 768.0,
+    "ballY": 512.0,
+    "holeX": 1536.0,
+    "holeY": 512.0,
+    "map": 
+    [
+        ["NPT","NPT","NPT","NPT","NPT","NPT","NPT","NPT","NPT"],
+        ["NPT","NPT","Wall_L_LeftBottom","Wall_L_RightBottom","NPT","Wall_D_TopToRight","Wall_L_BottomOnly","Wall_L_RightBottom","NPT"],
+        ["NPT","NPT","Wall_L_LeftOnly","Wall_L_RightOnly","NPT","Wall_L_LeftOnly","Wall_L_TopOnly","Wall_L_RightOnly","NPT"],
+        ["NPT","Wall_D_TopToRight","No_Wall","Wall_L_RightOnly","NPT","Wall_L_LeftRight","NPT","Wall_L_LeftRight","NPT"],
+        ["NPT","Wall_L_LeftOnly","No_Wall","Wall_D_BottomToLeft","NPT","Wall_L_LeftTop","Wall_L_TopBottom","Wall_L_RightOnly","NPT"],
+        ["NPT","Wall_L_LeftOnly","Wall_L_RightOnly","NPT","NPT","NPT","NPT","Wall_L_LeftRight","NPT"],
+        ["NPT","Wall_D_BottomToRight","Wall_L_TopOnly","Wall_L_TopBottom","Wall_D_TopToLeft","NPT","Wall_D_TopToRight","Wall_L_RightOnly","NPT"],
+        ["NPT","NPT","NPT","NPT","Wall_D_BottomToRight","Wall_L_TopBottom","Wall_L_TopOnly","Wall_D_BottomToLeft","NPT"],
+        ["NPT","NPT","NPT","NPT","NPT","NPT","NPT","NPT","NPT"]
+    ]
+}
+LAST SUBSTRING: 
